@@ -1,4 +1,13 @@
-![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/bb5696c5-3eda-4bb2-8433-8a0e3ea743ae)
+## Contents
+
+Introduction...........................................................3
+
+Power BI Desktop.......................................................3
+
+Power BI Desktop – Accessing Data......................................3
+
+Power BI Desktop – Data Preparation....................................17
+
 ## Introduction
 
 Today you will learn about various key features of the Power BI service. This is an introductory course intended to teach you how the author builds reports using the Power BI Desktop, create operational dashboards, and share content via the Power BI Service.
