@@ -210,7 +210,244 @@ Notice the VanArsdel Market Share tile is pinned to the dashboard.
 
 38. Select the VanArsdel Market Share tile. Notice that you are navigated to the AIIE Final Report.
 
-_Note: Dashboard Tiles are not interactive like report visuals we’ve learned about so far. You also cannot pin things like Slicers to a dashboard since the main purpose of the Slicer is to be interactive_
+_Note: Dashboard Tiles are not interactive like report visuals we’ve learned about so far. You also cannot pin things like Slicers to a dashboard since the main purpose of the Slicer is to be interactive._
+
+39. Within the navigation pane to the left of the screen, select the AIIE Final Report again to find more items to pin to your dashboard.
+40. Hover over the % Growth by Manufacturer column chart visual.
+41. Select the pin icon within the header of the visual. The Pin to dashboard dialog box opens.
+42. Make sure that Existing dashboard and VanArsdel are selected.
+43. Select Pin.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/d832492d-ff6c-4ed9-9d36-8a8664d0d732)
+
+44. Close out the alert notification boxes in the top right corner of the screen.
+45. Hover over the Revenue by Year and Manufacturer visual.
+46. Select the pin icon from the header of the visual. The Pin to dashboard dialog box opens.
+47. Ensure that Existing dashboard and VanArsdel are selected.
+48. Select Pin.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/0507e814-eb7e-4099-8ac8-981db16dd3c4)
+
+49. Close out the alert notification boxes in the top right corner of the screen.
+50. Navigate to the By Manufacturer page using the Pages menu/pane to the left of the screen.
+51. Using the same steps as we have previously, pin the Revenue and PY Sales gauge visual to the VanArsdel dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/a8faacc1-967c-44f9-b510-b2d50489dab1)
+
+52. Pin the Revenue by Country bar chart visual to the VanArsdel dashboard.
+53. Close out the alert notification boxes in the top right.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/eda6096f-42dc-4a8d-acd6-21729bbe96d4)
+
+54. Navigate back to the workspace entitled AIIE_<youremailaddress>, and then choose VanArsdel
+Dashboard again. Notice that all the visuals are pinned as tiles to the dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/3bb73af3-cf76-4515-80ce-996dafb276a8)
+
+You will see the visuals on the dashboard like in the figure above. Each visual on the dashboard is called a tile. The tiles represent the data chosen and are kept up to date as the data in the data model updates. Tiles are not interactive.
+
+Let’s organize the dashboard.
+
+55. Resize and move the gauge tile as shown in the figure below. To resize the visual, select the bottom
+right-hand corner and drag to the desired size.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/30d7400f-eb46-4b3d-b9e3-3b66e47f0bab)
+
+Tiles can be of various sizes (1x1 to 5x5).. As you are dragging, note the gray shadow which indicates the size of the tile when you stop dragging.
+
+56. Select the Edit dropdown from the ribbon at the top of the screen and choose Add tile. The Add tile dialog box opens.
+57. Select Image as the source.
+58. Choose Next.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/bb49b173-cad6-4898-a34d-1ff981eff597)
+
+59. In the URL text box of the Add image tile dialog, type the following URL: https://raw.githubusercontent.com/CharlesSterling/AIIEManu/master/Vanarsdel.png
+
+_Note: The URL is case sensitive._
+
+60. Then, select Apply at the bottom of the dialog.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/9158cafa-1d13-452e-a431-7e4c1c183af6)
+
+Notice that a new tile with the VanArsdel logo is added to the dashboard.
+
+61. Resize and rearrange the tiles as shown in the figure below.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/220fb13c-6572-4f28-a1d3-a0ee836ff1b1)
+
+The Revenue by Country tile shows data for Revenue by Country for VanArsdel. Let’s rename it.
+
+62. Hover over the Revenue by Country tile.
+63. Select the ellipse in the top right corner of the tile.
+64. Select Edit Details. The Tile Details dialog box opens.
+65. Change the Title to VanArsdel Revenue.
+66. Select Apply
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/abbc7b06-f4d7-4fb6-bedf-47908d8e662a)
+
+Now let’s create a visual that represents Market Share by country.
+
+Notice on the top of the visual, there is an option to Ask a question about your data. This is like Ask a
+question in the desktop.
+
+67. Select the Ask a question about your data text box at the top of the page. You will then be taken to a Q&A page; start typing VanArsdel market share in the text box at the top of the page. Notice that a card visual is created.
+68. Continue typing VanArsdel market share by country. Notice that a bar chart is created.
+69. Continue typing VanArsdel market share by country as treemap. Notice that a treemap visual is created.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/9ca670ac-3977-461f-bbc7-afb01491d8f3)
+
+_Note: Remember that we renamed our tables. One of the reasons we did this was to make them user friendly for Q&A._
+
+70. In the top right corner of the screen, select Pin Visual.
+71. The Pin to dashboard dialog box opens. Ensure that Existing dashboard is selected, then select Pin to pin the visual to the VanArsdel dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/71477375-f7b6-4575-acd3-b8c1a7b7826c)
+
+72. Close the alert dialog boxes.
+73. Select Exit Q&A in the top left corner of the page to navigate back to the dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/fe805ff7-2902-4335-9680-6b32c72cc0c1)
+
+Notice that the treemap visual is added as tile to the dashboard. Selecting the treemap visual will navigate you back to the Q&A section.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/a7e7891e-a57e-4706-9e90-f0325ff502fa)
+
+Power BI quickly searches different subsets of your dataset while applying a set of sophisticated algorithms to discover potentially interesting insights. You can run insights against a dataset or a dashboard tile.
+
+Let’s generate insights on a dashboard tile. When we run insights on a dashboard tile, instead of searching for insights against an entire dataset, the search is narrowed to the data used to create a single dashboard tile. This is often referred to as scoped insights.
+
+74. Hover over the Revenue by Manufacturer line chart on the dashboard.
+75. Select the ellipse on the top right corner of the line chart.
+
+76. Choose View Insights.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/08bc481f-76ff-4256-a412-3c3bc3cfe807)
+
+You will be navigated to Focus mode for the line chart.
+
+77. Scroll on the Insights pane to the right of the screen to review the various insights Power BI can generate. Notice that there is an option to pin insight visuals to the dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/0b0f5fe7-24a8-4a42-8435-4dd45416044a)
+
+78. Select Exit Focus mode in the top left corner of the page to navigate back to the dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/2271e46b-4d0e-4b7e-8d20-e9078c94159d)
+
+We want to be notified when VanArsdel’s Market Share goes above or below a threshold. We can set up alerts to achieve this.
+
+79. Hover over the VanArsdel Market Share card tile.
+80. Select on the ellipse in the top right corner of the tile.
+81. Choose Manage alerts. The Manage alerts dialog box opens.
+82. Select Add alert rule.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/40a3a2d1-fcb1-4a5f-bb67-44fa047c79da)
+
+Notice that you can add Above or Below threshold. You can also set the notification frequency. This is just an introduction to managing alerts. Complete functionality is not covered in this lab.
+
+83. Select Cancel to close the dialog box.
+84. From the Unsaved changes alert dialog box, select Don’t Save.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/45ccde0f-ee1a-4c88-b9fe-b5e8eb43b191)
+
+85. Select the VanArsdel Market Share card visual tile to navigate to the report.
+86. Within the Revenue by Country and State map visual, ensure it is at the Country level (you may need to drill up from the State level to the Country level). Right-click on the Australia bubble within the map, then choose Drill through, and then select By Manufacturer.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/3c60d21e-7cc6-4b1c-bf71-6a31b449f160)
+
+You will then navigate to the By Manufacturer page of the report with the Australia filter applied to the report page.
+87. Hover over the matrix visual.
+88. Select the focus mode icon on the top right corner of the visual.
+89. Select the double-down arrow to drill down.
+90. Then, select the Back to report button in the top left hand corner of the page.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/b89e89a6-ad08-4d8c-b9aa-eb4d8ed897a6)
+
+91. From the menu in the top right corner of the screen, select Bookmarks and then choose Show more
+bookmarks. The Bookmark pane opens on the right. There are two options: Personal bookmarks and
+Report bookmarks.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/34d57973-39e9-4fa7-b2e2-b0bbb3067a4f)
+
+• Personal bookmarks on the report are ones which the consumer can create on their own.
+• Report bookmarks are the bookmarks the report author created (we did this in Power BI Desktop).
+
+92. Select View under the Report bookmarks section of the bookmarks pane.
+Notice that you can view and navigate through the bookmarks using the arrow at the bottom of the
+screen. This behavior is like in Power BI Desktop.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/2e4be1cd-5b87-43ad-80a9-ea13f6367b4b)
+
+93. Select Exit under the Report bookmarks section of the pane to close it.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/08472de3-6fc4-4070-ba36-4d9644928947)
+
+Power BI provides an option to get quick insights into the complete dataset.
+
+94. Navigate back to the Workspace you created earlier in the lab using the menu to the left of the screen.
+95. Once in the workspace find the Dataset called AIIE Final Report and select the ellipse.
+96. From the menu, select Get quick Insights.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/1def7177-ca30-45b2-b5fc-bd34fd172cb6)
+
+It might take a few minutes for the insights to be created. Once insights are ready, a message appears in the top right corner.
+97. From the Insights are ready alert dialog box, select View insights.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/9fcf0d9f-685a-4430-9e3e-e8e4365ae29d)
+
+A quick insights report is displayed based on the dataset. This provides insights into data you may have missed and helps to get a quick start on creating dashboards. Hovering over each report provides an option to Pin it to a dashboard.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/1bde23d1-f051-49b0-8afb-85a15d5ab43e)
+
+
+You’ve now completed Lab four!
+
+Throughout this lab, you have learned how to apply conditional formatting, add a logo to the
+manufacturer filter, import a custom visual, and apply a custom theme to the report. You also learned
+how to add bookmarks to tell a story about the report.
+
+# References
+AI in Every City introduces you to some of the key functions available in Power BI. In the ribbon of the
+Power BI Desktop, the Help section has links to some great resources.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/4fcd6a90-04f7-4fe9-b9d0-cd6b63541384)
+
+• DSN Telegram group: https://t.me/+YvF8TQvmYmRhNjdk
+• Become a DSN Member: https://www.datasciencenigeria.org/aimembership/
+• Website: www.datasciencenigeria.org
+• Twitter: dsn_ai_network
+• Instagram: dsn_ai_network
+• Facebook: DSN- Data Scientists Network/Data Science Nigeria
+• YouTube: @dsnai
+• Annual Report: https://bit.ly/dsn_2021annualreport
+• DSN Tik Tok - https://www.tiktok.com/@dsn_ai_network
+• LinkedIn Page: https://www.linkedin.com/company/18638027/
+• Mastodon - https://techhub.social/@dsnai
+
+Here are a few more resources that will help you with your next steps with Power BI.
+• Getting started: http://powerbi.com
+• Power BI Desktop: https://powerbi.microsoft.com/desktop
+• Power BI Mobile: https://powerbi.microsoft.com/mobile
+• Community site https://community.powerbi.com/
+• Power BI Getting started support page: https://support.powerbi.com/knowledgebase/articles/430814-get-started-with-power-bi
+• Support site https://support.powerbi.com/
+• Feature requests https://ideas.powerbi.com/forums/265200-power-bi-ideas
+• New ideas for using Power BI https://aka.ms/PBI_Comm_Ideas
+• Power BI Courses http://aka.ms/pbi-create-reports
+• Power Platform https://powerplatform.microsoft.com/en-us/instructor-led-training/
+• Power Apps Business Apps | Microsoft Power Apps
+• Power Automate Power Automate | Microsoft Power Platform
+• Dataverse What is Microsoft Dataverse? - Power Apps | Microsoft Docs
+
+
+
+
+
+
+
+
+
+
+
 
 
 
