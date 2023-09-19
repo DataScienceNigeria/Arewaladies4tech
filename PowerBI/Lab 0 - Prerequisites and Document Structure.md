@@ -1,9 +1,7 @@
 Contents
 
 Lab Prerequisites 
-
 Document Structure 
-
 Dataset 
 
 Lab Prerequisites
