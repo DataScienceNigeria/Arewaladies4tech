@@ -1,4 +1,3 @@
-![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/00723503-5d6d-4070-a4c7-8bee07af52e8)
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/bb5696c5-3eda-4bb2-8433-8a0e3ea743ae)
 ## Introduction
 
