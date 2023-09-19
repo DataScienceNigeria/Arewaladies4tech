@@ -334,7 +334,145 @@ With that step, Power BI will predict the data type of each field again. Notice 
 78. Select the 123 icon to the left of the Zip column header. From the options menu, select Text.
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/13c906bd-42b9-499e-9e08-ec7b210dc780)
 
+79.	Select Replace Current in the Change Column Type dialog box.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/673c83f3-eb38-4575-b9fa-6570ce4d44aa)
 
+80.	From the Queries pane, select the Manufacturer query. Notice the bottom three rows are not part of the data. Let’s remove them.
 
+81.	From the ribbon, select the Home tab, choose the Remove Rows drop-down, and then select Remove
 
+Bottom Rows.
 
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/1f829d1b-007f-462d-8f34-fc3740012283)
+
+82.	The Remove Bottom Rows dialog box opens. Enter 3 in the Number of rows text box.
+83.	Then, select OK.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/376a8efb-5348-491c-8cd8-427097f5c0ee)
+
+**Power BI Desktop – Transposing data**
+
+84.	From the Queries pane to the left of the screen, select the Manufacturer Query. Notice that the ManufacturerID, Manufacturer, and Logo data are laid across in rows. Also notice that the header is not useful. We need to transpose the table to meet our needs.
+85.	From the ribbon at the top of the screen, select the Transform tab, then choose Transpose.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/07efe62c-35a5-4b14-acdd-00c62421596d)
+
+Notice that this transposes the data into columns. Now we need the first row to be the header.
+
+86.	From the ribbon at the top of the screen, select the Home tab, and then choose the Use First Row as Headers button.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/398def97-fc23-4864-add0-cc89bfaa73eb)
+
+Notice that now the Manufacturer table is laid out the way we need it with a header and values along columns.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/7a70b1d9-ee1b-4bc1-9cd5-f1fd8f7bd2e7)
+
+Also, notice that with the Query Settings pane, under APPLIED STEPS, you will see the list of transformations and steps that have been applied. You can navigate through each change made to the data by selecting the step. Steps can also be deleted by choosing the X that appears to the left of the step. The properties of each step can be reviewed by selecting the gear to the right of the step
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/6582df2c-a689-4b23-9846-a1acb505dcf5)
+
+**Power BI Desktop – Appending queries**
+
+To analyze the sales of all countries, it is convenient to have a single Sales table. To do this, you need to append all the rows from the International Sales query to the Sales query.
+
+87.	Within the Queries pane to the left of the screen, select the Sales query.
+88.	From the ribbon at the top of the screen, select the Home tab, and then choose Append Queries.
+89.	The Append dialog box opens. There is an option to append Two tables or Three or more tables. Leave Two tables selected since we are appending just two tables.
+90.	From the Table to append drop-down, select International Sales. Then, select OK.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/831b6efa-927d-46ca-ba62-3805751b2aed)
+
+You will now see a new column in the Sales table called Country. Since the International Sales query had the additional column for Country, the Power Query Editor added the Country column to the newly updated Sales table when it loaded the values from the International Sales query.
+
+You will see null values within the Country column by default for the Sales table rows because that column did not exist for the table with USA data. We will now add the value USA as a data shaping operation.
+
+91.	From the ribbon at the top of the screen, select the Add Column tab, and then choose Conditional Column.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/d68f31e9-4289-4cbc-8db7-07e2b3179c16)
+
+92.	In the Add Conditional Column dialog box, enter the name of the column as CountryName.
+93.	Select Country from the Column Name drop-down menu.
+94.	Choose equals from the Operator drop-down menu.
+95.	Enter null in the Value text box.
+96.	Enter USA in the Output text box.
+97.	Select the   drop-down menu under Else and then choose the Select a column option.
+98.	Choose Country from the column drop-down menu.
+99.	Then select OK.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/221fcbe7-cb6e-486d-8034-bb4d7c35a752)
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/384dceba-de81-4e40-aff2-8d61a5c6337c)
+
+100.	You will see the CountryName column in the Query editor window. Notice that within the APPLIED STEPS list, it has added to the list the action you just completed.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/13d2327f-e00c-4cca-a37c-23048f84502d)
+
+The original Country column containing the null values is no longer needed and can be removed from the final table for analysis.
+
+101. Right-click on the Country column and select Remove from the options menu.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/55d8748b-05c4-4fba-baf1-090a54291c09)
+
+With this column now removed, we can now rename the CountryName column to Country.
+
+102.	Right-click on the CountryName column and rename it to Country.
+103.	Select the Data Type icon to the left of the Country column header and change the Data Type to Text.
+104.	Next, select the Data Type icon to the left of the Revenue column header and change the Data Type to Fixed decimal number because it is a currency field.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/d3af906c-a1ac-4b76-ba10-e7d314ce8345)
+Note: The difference between a Fixed decimal number and a Decimal number is related to the length and precision of the decimal places. <https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-types#number-types>
+
+When the data is refreshed, it will process through all the APPLIED STEPS that you have created.
+
+The newly named Country column will have names for all countries, including the USA. You can validate this by selecting the drop-down menu next to the Country column to see the unique values.
+
+105.	At first, you will only see USA data. Select the drop-down arrow to the right of the Country column header. Select Load more to validate your data from all seven countries.
+106.	Select Cancel to close this filter. You do not need to apply this filter to the data.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/2ebb93c8-09c8-45d8-a47d-96a7e52a8f12)
+
+Often, when exploring data, we load a subset of data to test the results. Our dataset has data from 2014 to 2021. For our analysis we want to start with the last three years of data (2019-2021). We don’t yet know how many rows will result. We can filter by year to get the subset.
+
+107.	Ensure that the Sales query is selected within the Queries pane to the left of the screen. Select the drop-down to the right of the Date column header.
+108.	Select Date Filters and then choose In the Previous…
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/3267fdc1-2712-4c4c-9213-86a3214355f5)
+
+109.	The Filter Rows dialog box opens. Enter 4 in the first text box to the right of is in the previous.
+110.	Select years from the drop-down menu displaying the intervals.
+
+Note: This is saying that we want the three years prior to the current year.
+
+111. Then, select OK.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/2cfb2479-a37b-4086-b313-0841fa7e28ec)
+Now that the International Sales data is appended to the Sales query, in order to avoid duplicating data we should suppress the International Sales table from loading into the data model.
+
+112. From the Queries pane to the left of the screen, select the International Sales query.
+113.	Right-click on the International Sales query within the Queries pane, and then choose Enable Load to deselect this setting. This will disable loading of the International Sales query into the data model. (You will see the name of this query become italicized in the Queries pane)
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/8579e961-96f7-4054-a6d2-1a869f4524ac)
+
+114.	You may receive a message about Possible Data Loss Warning. If so, select Continue when this warning appears.
+115.	Next from the ribbon, select the View tab and then choose Query Dependencies.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/1d82a2f6-3f21-4a3b-9a39-7be40296232d)
+
+This opens the Query Dependencies dialog box. The dialog box shows the source of each query and its dependencies. For example, we see that the Sales query has a CSV file source and a dependency on the International Sales query. This is a useful information to share knowledge with your team members.
+116. Select Close at the bottom of the dialog box.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/d9e1540f-3d1f-414f-b363-532deb3ec687)
+
+You have now successfully completed import and data shaping operations and are ready to load the data into the Power BI Desktop data model to visualize the data.
+
+117.	From the ribbon at the top of the screen, select the File tab, then choose Close & Apply. This will close out the power query window and apply all changes
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/d8c14056-3215-466b-9d15-1c06dd2c46b6)
+
+All the data will be loaded in memory in the Power BI Desktop. You will see the progress dialog box with the number of rows being loaded in each table as shown in the Figure. Once the load completes the results of this Power BI Desktop file will be used in Lab 02.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/a0876808-60b2-44ca-ab88-74f2091811bc)
+
+118.	Once the data has finished loading, select the File tab from the ribbon at the top of the screen.
+119.	Then, from the options menu to the left, select Save to save the file. Name the file as MyFirstPowerBIModel. Save the file within the AIIE Reports (\AIIE\Reports) folder.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/69b874c9-be64-470b-bcda-b854113db0e3)
+
+120.	Within the navigation pane to the left of the screen, select the Data   icon to view the data that was loaded. If you need to open Power Query editor again, navigate to Home ➔ Transform Data ➔ Transform data.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/03728a85-bf00-47c6-b583-f247841d4c21)
