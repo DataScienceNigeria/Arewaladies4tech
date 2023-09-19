@@ -30,3 +30,5 @@ additional formatting in the report. Feel free to explore the report.
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/97315843/00b2e7ec-d51a-4b9f-8e64-bf8cea8d8e40)
 
 _Note: A small pop-up window may open introducing you to the mobile-only formatting. Select Got it to continue and close out the pop-up window_
+
+
