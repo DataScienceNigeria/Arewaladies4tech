@@ -1,9 +1,3 @@
-Contents
-
-Lab Prerequisites 
-Document Structure 
-Dataset 
-
 Lab Prerequisites
 
 The following prerequisites and setup must be done for successful completion of the lab:
