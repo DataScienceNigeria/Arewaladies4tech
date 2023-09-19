@@ -290,10 +290,49 @@ Notice that the MSRP field has a Data Type of Text. The Data Type that it needs 
 65.	From the menu, select Fixed Decimal Number. Notice that all the steps we performed on the Product query are being recorded under APPLIED STEPS in the right panel.
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/1852fe97-55cf-4cf7-b5c3-418bbb50d3c1)
 
+Now let’s create a Currency column in the same way.
 
+66.	With the Product query selected, from the ribbon, select the Add Column tab, choose the Column From Examples drop-down, and then select From All Columns.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/2696ad88-6ab0-4cc5-b019-1f2d71922e02)
 
+67.	Within the first row of the newly added Column1 enter the first Currency value as USD and then hit Enter on your keyboard.
+68.	Rename the column header Text Before Delimiter to now be named Currency.
+69.	Select Ok to apply the changes.
 
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/0d97e2bb-04c0-4a3c-865a-15a52f54ccdd)
 
+Notice that after you hit Enter, Power BI knows you want to split the Price column. The formula it uses is displayed above as well.
+
+Now that we have split the Price column into the MSRP and Currency columns, we no longer need the original Price column. Let’s remove it.
+
+70.	From the Queries pane to the left of the screen, select the Product Query.
+71.	Right-click on the Price column.
+72. Select Remove from the options menu.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/81a2db70-7e80-4110-b59d-0e41a737af37)
+
+**Power BI Desktop – Removing unwanted rows**
+
+In the Geography query, notice that the first two rows are informational. They are not part of the data. Similarly, in the Manufacturer query, the last couple of rows are not part of the data. Let’s remove them so we have a clean dataset to work with.
+
+73.	Within the Queries pane to the left of the screen, select the Geography query.
+74.	From the ribbon, select the Home tab, choose the Remove Rows drop-down, and then select Remove Top Rows.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/33d5dc76-37b9-486b-9d42-4e0fec6b5823)
+
+75.	The Remove Top Rows dialog box opens. Enter 2 in the text box since we want to remove the top informational data row and the blank second row.
+76.	Then, select OK.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/db620e49-e795-4063-bcb3-90bb80a7859d)
+Notice the first row in the Geography query contains the column headers. Let’s move them into the column header position.
+
+77.	With the Geography query selected in the Queries pane, from the ribbon at the top of the screen, select the Home tab, and then choose Use First Row as Headers.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/23333bfb-6210-4a76-ba86-862383ab8233)
+
+With that step, Power BI will predict the data type of each field again. Notice that the column Zip was changed to the Number Data Type. Let’s change it to Text again as we did earlier. If we don’t, we will see errors when we load the data.
+
+78. Select the 123 icon to the left of the Zip column header. From the options menu, select Text.
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/69847840/13c906bd-42b9-499e-9e08-ec7b210dc780)
 
 
 
