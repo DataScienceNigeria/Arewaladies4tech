@@ -12,7 +12,8 @@
 1. VLookup
 2. HLookup
 3. Index
-4. Match 
+4. Match
+   
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/a0f4f052-05f7-4a0e-a480-0f1a1ed0586c)
 
 
