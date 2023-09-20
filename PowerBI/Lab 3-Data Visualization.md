@@ -28,17 +28,22 @@ Now let's get started. We will pick up where we left off at the end of **Lab 2**
   
   3. Within the **Background color -% Growth** dialog box, select the **Add a middle color** checkbox.
   4. Then, select **OK**.
+     
      ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/c70a6042-6613-41f7-9478-5e3a33057285)
      ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/aaf32780-93c2-4cba-99e0-040a331a4723)
      
  In lab 1 we added a filter to only load **three years** of data. Let's load the **entire** data now.
+ 
   5. From the ribbon at the top of the screen, select the **Home** tab and then choose **Transform Data**.
        The **Power Query Editor** window opens.
+     
   6. Change the **Sales** table by selecting the filter button on the **Date** Column.
   7. Choose **Clear filter** to remove the 4-year filter.
+     
       ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/8d27e33f-462b-453d-bf08-62a3e27a119b)
      
   8. Select the **Home** tab from the ribbon and then choose **Close & Apply** to load the data.
+      
       ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/1b6403ab-edc8-4b24-924c-d52f5622db33)
       
   This time all the data will be loaded. It might take a couple of minutes as we are loading approximately seven million rows.
@@ -47,6 +52,7 @@ Now let's get started. We will pick up where we left off at the end of **Lab 2**
       ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/baa97ed7-f84a-450b-aa7b-340ea6f66dbc)
       
   9. Enable **drill down** mode on the **Sum of Revenue by Country** visual by selecting the **down arrow** within the header of the visual (this may alternatively be located at the bottom of the visual based on how you have the visual placed within the canvas).
+      
       ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/000fc228-e8bd-4950-97da-a1993b56b8f3)
       
   10. Within the visual, select the **Australia** column to drill down to the **State** level.
@@ -75,19 +81,22 @@ Now let's get started. We will pick up where we left off at the end of **Lab 2**
   
   17.	Ensure that the Manufacturer slicer visual is still selected. From the **Data** pane, select the **Logo** field from the **Manufacturer** table. (Do not select the checkbox next to the Logo field; only select the name of the field.)
   18.	From the ribbon, select the **Column tools** tab, choose the **Data Category** drop down and then select **Image URL**. Setting the data category property to Image URL helps Power BI understand that the data in this field is a URL so it can render the image in the report.
-       ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/dd8614cc-0af4-4452-a67e-429ded93184d)
+      
+  ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/dd8614cc-0af4-4452-a67e-429ded93184d)
      	
   
   19.	From the **Data** pane, drag and drop the **Logo** field from the **Manufacturer** table to below the Manufacturer column within the **Field** box in the **Visualizations** pane.
   20.	Select the **X** to the right of the **Manufacturer** field in the box so that the Logo field has replaced it.
   21.	**Resize** and move the visuals as needed.
   22.	Select the **VanArsdel** logo within the **Manufacturer** slicer visual to filter all the other visuals.
+      
          ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/910ce71e-daf0-4b07-87d3-8ee08f405621)
      	
  
   23.	Select the **Sum of Revenue by Year** visual.
   24.	From the **Visualizations** pane, select the **Line and clustered column chart** to change the visual type.
   25.	From the **Data** pane, drag and drop the % **Growth** field from the **Sales** table to the **Line y-axis** box.
+      
         ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/0bb2e26f-f803-49f9-bf55-b6f9bbc76b29)
      	
 This provides a representation of the revenue and growth over time.
@@ -95,7 +104,8 @@ This provides a representation of the revenue and growth over time.
 Now let’s select the **Sum of Revenue** card visual so we can change it to a Gauge visual.
   26.	From the **Visualizations** pane, select the **Gauge** visual.
   27.	From the **Data** pane, drag and drop the **PY Sales** field from the **Sales** table to the **Target value** in the Visualizations pane.
-        ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/ba19b6c8-5c47-41da-847b-0f7b28bd896c)
+       
+  ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/ba19b6c8-5c47-41da-847b-0f7b28bd896c)
         
   28.	**Resize** and **move** the visuals as needed. Now we can compare **Revenue** with the target. Now let’s take time to select the colors for the visuals.
   29.	Select the **Gauge** visual.
@@ -103,10 +113,13 @@ Now let’s select the **Sum of Revenue** card visual so we can change it to a G
   31.	Expand the **Colors** section.
   32.	Select the drop-down for **Fill** color.
   33.	Notice you can pick a color from the default color palette or pick **More colors**. No need to make a change here because the next steps will standardize all the report colors used.
+      
          ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/14208ab0-8f3f-4bfc-a661-61ca8b719195)
+ 
  Let’s check out some of the **themes** available.
   34.	Ensure that the **Gauge** visual is still selected. From the ribbon, select the **View** tab, choose the drop-down arrow within the **Themes** menu, and then select the **Temperature** theme.
-        ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/194f7e1c-3b01-47e7-b83a-65ba8e5616c5)
+  
+  ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/194f7e1c-3b01-47e7-b83a-65ba8e5616c5)
 
   Notice that the colors on all the visuals are updated. Feel free to try the other **out-of-the-box themes**.
 
@@ -132,6 +145,7 @@ Now let’s select the **Sum of Revenue** card visual so we can change it to a G
 42.	Select the drop-down menu below **Target color**. Notice the color palette is different now.
 43.	Select the color **black**. Notice the subtle change to the target line in the visual.
 44. Collapse the **Colors** section.
+    
      ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/ba254ba3-325b-47cb-8bf1-22c7ffd6a0de)
     
 45.	Within the Visualizations pane, under the **Format your visual** tab, expand the **Data labels** section.
@@ -158,6 +172,7 @@ Now let’s select the **Sum of Revenue** card visual so we can change it to a G
 56.	Ensure that the **Sum of Revenue by Country** visual is still selected. Within the **Visualizations** pane, under the Format your **visual** tab, turn **On** the **Data labels** and expand this section.
 57.	Expand the **Values** section within the **Data labels** expansion.
 58.	Change the **Display units** to **Millions**.
+    
       ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/11dbd6bb-38b8-4ddd-973f-75d3c7d76020)
    	
 Notice that there are lot of formatting options. For example, a visual title can be changed and formatted, or you can add a border and background to the visual. Feel free to explore the options.
@@ -189,12 +204,15 @@ Let’s move to another visual.
 72.	Select **Segoe (Bold)** as the **font**.
 73.	Select **32** as the **font size**.
 74.	**Resize** the text box as needed.
-  Notice the additional formatting options that have been added are highlighted in black (superscript, subscript, and bulleted lists)
+Notice the additional formatting options that have been added are highlighted in black (superscript, subscript, and bulleted lists)
+
    ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/06c757f0-27ff-405d-9405-1317f1d6fd8c)
 
-75.	From the ribbon, select the **View** tab.
-76.	Select the **checkbox** next to **Show Gridlines** and **Snap to Grid** within the **Page options** section. This will help with aligning the visuals.
+76.	From the ribbon, select the **View** tab.
+77.	Select the **checkbox** next to **Show Gridlines** and **Snap to Grid** within the **Page options** section. This will help with aligning the visuals.
+    
      ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/dc7a72df-484e-4e9d-8d8b-0492fa459823)
    	
-77.	Now, use the **Gridlines** and **Snap to Grid** features to **position** and **resize** your visuals to appear like, or similar to, the figure below.
-
+78.	Now, use the **Gridlines** and **Snap to Grid** features to **position** and **resize** your visuals to appear like, or similar to, the figure below.
+79.	Uncheck the **Show Gridlines** and **Snap to Grid** options to disable these features once you have finished moving the visuals into the correct places.
+    
