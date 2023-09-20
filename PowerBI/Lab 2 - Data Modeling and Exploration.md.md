@@ -2,23 +2,16 @@ Power BI Dashboard in a Day Lab 2
 
 1 | Page
 
-Contents Introduction
-.....................................................................................................................................................
-3 Power BI Desktop – Data Modeling and Exploration
-.......................................................................................
-4 Power BI Desktop - Layout
-...........................................................................................................................
-4 Power BI Desktop – Data Exploration
-..........................................................................................................
-8 Power BI Desktop – Data Exploration Continued
-.......................................................................................
-29 References
-.....................................................................................................................................................
-55
+#Contents 
+Introduction
+Power BI Desktop – Data Modeling and Exploration
+Power BI Desktop - Layout
+Power BI Desktop – Data Exploration
+Power BI Desktop – Data Exploration Continued
 
-2 | Page
 
-Introduction This is lab two out of five labs in total. Please continue
+Introduction 
+This is lab two out of five labs in total. Please continue
 to use your file after completing Lab 1. If you are joining the AIIE at
 this point or were unable to complete Lab 1, please start this lab with
 the “Lab 1 solution.pbix” file you can find in the Reports folder. In
