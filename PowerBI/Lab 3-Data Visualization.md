@@ -18,6 +18,7 @@ The flow of this document includes screenshots to provide a visual aid for the u
 ## Power BI Desktop - Data Visualization
 Now that we've completed data exploration and visualization in Labs 1 and 2, you have good insights to share with your team. In this section, you will build a report like the one shown in the figure below.
 
+
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/5498cbe7-08b5-4735-9f0e-87a323c55feb)
 
 ---
@@ -25,11 +26,12 @@ Now let's get started. We will pick up where we left off at the end of **Lab 2**
   1. With the **Matrix** visual selected, navigate to the values section in the **Visualizations** pane and select the arrow to the right of % **Growth**.
   2. Select **Conditional Formatting** and then choose **Background Color**. The **Background color** dialog box opens. This dialog provides options to format the report background color using either rules or diverging colors.
 
-     ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/ad5d4556-8012-40f8-b5e7-42b057b80d3d)
+
+      ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/ad5d4556-8012-40f8-b5e7-42b057b80d3d)
      
   
-  3. Within the **Background color -% Growth** dialog box, select the **Add a middle color** checkbox.
-  4. Then, select **OK**.
+  4. Within the **Background color -% Growth** dialog box, select the **Add a middle color** checkbox.
+  5. Then, select **OK**.
      
      ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/96244548/c70a6042-6613-41f7-9478-5e3a33057285)
 
