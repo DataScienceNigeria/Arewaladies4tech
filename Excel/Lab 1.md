@@ -8,30 +8,16 @@
 
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/59b61244-14fc-441e-859d-7124f4eaa9e8)
 
-Lookup Formulas
+## Lookup Formulas
+1. VLookup
+2. HLookup
+3. Index
+4. Match 
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/a0f4f052-05f7-4a0e-a480-0f1a1ed0586c)
 
 
 
-
-
-
-VLookup
-
-
-
-
-HLookup
-
-
-
-
-Index
-
-
-
-
-Match 
-Data Tools
+## Data Tools
 
 
 
