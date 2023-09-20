@@ -1,5 +1,3 @@
-<img width="109" alt="image" src="https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/6b35e1c1-035f-4a26-a58c-ebd2a2264d52"><img width="814" alt="image" src="https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/8aa5133b-caa1-41ca-93b3-e61b0a7dd4ec">
-
 # Contents
 - Introduction 
 - Power BI Desktop – Data Modeling and Exploration
