@@ -20,7 +20,7 @@ Thinking of what to work on for your next project, watch this video to explore 1
 
 When we think of a pop dialog box we think of JavaScript but now we can do that with Power Apps watch how
 
-**.[BUILD A POWER APPS QUIZ](https://youtu.be/RisTtTc9aOY?si=BfJPBI6FTEFfBkbJ)**
+**. [BUILD A POWER APPS QUIZ](https://youtu.be/RisTtTc9aOY?si=BfJPBI6FTEFfBkbJ)**
 
 Build your own customized quiz app with power apps. This project helps you solidify your learnings about controls
 
@@ -39,3 +39,7 @@ This video walks you through how to integrate Power Automate and Power apps into
 **. [BUILD AN EXPENSE REPORTER](https://youtu.be/1X8ihV_EGbE?si=k4w9-txyElJPyjg9)**
 
 Build an expense reporting app with reciept scanning AI using power apps
+
+**. [DESK RESERVATION APP](https://youtu.be/n8fJXTMPYsg?si=DF7erNmFt_OjtmK0)**
+
+Even down to making table reservations power apps could be useful. Check out how to build a desk reservation application.
