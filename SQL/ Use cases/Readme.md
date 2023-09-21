@@ -7,3 +7,7 @@
 
 * Setting Up SQL on Your Computer
  [Setup link](https://phoenixnap.com/kb/install-sql-server).
+
+# WEEK 2
+
+
