@@ -18,7 +18,7 @@ Welcome to the Beginner-Friendly SQL Training Program in Kaduna, Nigeria! This c
 - [Sorting Data with SQL ORDER BY](https://youtu.be/LXwfzIRD-Ds?si=dYvYiKsgQsxw-kUt)
 
 ### Week 3: Working with Data
-- Adding Data with SQL INSERT INTO
+- [Adding Data with SQL INSERT INTO](https://youtu.be/Tet3Z7Yb2gg?si=0prWFpTUsKCbjDHx)
 - [Updating Data with SQL UPDATE](https://youtu.be/bhnrIforc7s?si=ph4GMsg67biGPfMX)
 - [Deleting Data with SQL DELETE](https://youtu.be/bhnrIforc7s?si=ph4GMsg67biGPfMX)
 
