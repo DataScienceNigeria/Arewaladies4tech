@@ -1,4 +1,4 @@
-# WEEk 1
+# WEEK 1
 * What is a Database?-
 * Why SQL is Important
 * How SQL Works
