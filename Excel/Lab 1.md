@@ -63,18 +63,4 @@
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/70ee98bf-467b-4783-9e49-281ef5a28c89)
 
 
-## Week 9 - Macros
-1. Recording Macros
-2. Adding buttons 
-![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/5d3a0b95-9e59-4502-9cbc-e40574ee2f90)
-
-
-## Week 10 - Other Lectures
-1. Overlay graphs.
-2. Infographics
-3. Useful Add-ins
-4. Others
-
-   ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/2ac3e55f-26e3-48d2-8f8c-b87c98ff558e)
-
 
