@@ -1,12 +1,12 @@
 ## Contents
 
-Introduction...........................................................3
+Introduction
 
-Power BI Desktop.......................................................3
+Power BI Desktop
 
-Power BI Desktop – Accessing Data......................................3
+Power BI Desktop – Accessing Data
 
-Power BI Desktop – Data Preparation....................................17
+Power BI Desktop – Data Preparation
 
 ## Introduction
 
