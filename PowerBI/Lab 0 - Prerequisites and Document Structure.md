@@ -43,9 +43,11 @@ https://play.google.com/store/apps/details?id=com.microsoft.powerbim
 
 ## Document Structure
 This document and the documents that follow have two main sections:
+
 **Power BI Desktop**: This section highlights the features available in Power BI Desktop and
 walks the user through the process of bringing in data from data sources, organizing data in
 a model and creating visualizations.
+
 **Power BI Service**: This section highlights the features available in Power BI Service including
 the ability to publish the Power BI Desktop model to the web, creating and sharing a
 dashboard, and Q&A.
@@ -55,7 +57,8 @@ a visual aid. In the screenshots, sections are highlighted with red or orange bo
 area the user needs to focus on.
 Users should use their own files from Lab 1 through Lab 5. The solutions provided for each lab are
 a final product to reference. The solutions are not meant to be the starting point for each lab.
-NOTE: This lab uses real, anonymized data provided by ObviEnce, LLC. Visit their
+
+**NOTE**: This lab uses real, anonymized data provided by ObviEnce, LLC. Visit their
 site to learn about their services: www.obvience.com. This data is property of
 ObviEnce, LLC and has been shared for the purpose of demonstrating Power BI
 functionality with industry sample data. Any use of this data must include this
