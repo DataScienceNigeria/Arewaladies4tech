@@ -338,3 +338,247 @@ hierarchy.
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/dadf0d07-ca06-4fd8-9ad8-42e581cbd632)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+152. Select Urban to drill-down into the Segment. After drilling down into the Segment disable drill down.
+
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/13e3d918-349c-45b5-bfbe-217253252741)
+
+
+153. Within the Sum of Revenue by Country visual ensure you are at the Country level. If you are not, drill 
+up to Country level then disable drill down.
+
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/320168e3-7f7b-4610-95c9-14e6dd90c210)
+
+
+
+154. Select Australia in the Sum of Revenue by Country visual
+155. Then, use the Ctrl key on your keyboard to multi-select 2021 from the Sum of Revenue by Year 
+visual. Notice that the sales in the Urban Extreme segment are higher than the Urban Convenience and 
+Urban Moderation segments.
+
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/79abb801-18c6-4de7-b220-4f712ac897ca)
+
+
+Let’s investigate further…
+156. Select the down arrow at the top of Sum of Revenue by Country visual to enable drill down.
+157. Select Australia to drill down to the State level.
+If 2021 was unselected during this process, make sure to select it again as shown below.
+
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/e9f32a9c-ef2c-483d-afce-e469f2ba599c)
+
+
+
+158. Disable drill mode in the Sum of Revenue by Category and Segment visual
+159. Ctrl + select the Urban Extreme Segment in the Sum of Revenue by Category and Segment visual. 
+Notice that there is no significant spike in revenue by State.
+
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/3c53bafa-a3a0-47b0-82ec-8a17f7f4a0e2)
+
+160. Select Urban Extreme again to remove cross-filtering between the visuals.
+161. Drill up to the Category level in the Sum of Revenue by Category and Segment visual.
+162. Drill up to Country in the Sum of Revenue by Country and State visual
+163. Disable drill mode in the Sum of Revenue by Country visual
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/4d4e7aa9-eca8-4ee2-99ee-3b9543ed90d8)
+
+
+164. Select the background of the Sum of Revenue by Year visual to ensure the visual is not still filtered.
+
+Now let’s add a Matrix visual so we can view the data in rows and columns. We can apply conditional formatting to the matrix visual to highlight the outliers.
+
+165. Select the **Sum of Revenue by Category** Clustered bar chart and change it to a **Matrix** visual.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/c960e1fe-5d7d-4301-afe9-d0e5e7d7e866)
+
+166. Select the + (plus sign) to the left of the **Urban** row to drill down.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/23036f5e-0aed-4269-8667-d9494c213a2a)
+
+Let’s add the percentage of the total field to the visual to give us a better perspective on the data.
+
+167. With the **Matrix** selected, navigate to the **Data** pane.
+
+168. From the **Data** pane, drag and drop the **Revenue** field from the **Sales** table to below the existing **Sum of Revenue** field in the **Values** section of the **Visualizations** pane. It will look like you have **Sum of Revenue** twice in the **Values** section.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/0cb7275c-39e1-45ef-ab92-af8b9ae3c8be)
+
+169. Select the **down arrow** to the right of the newly added **Sum of Revenue** field in the **Values** section.
+
+
+170. From the visual field menu, hover over **Show value as** and then select **Percent of grand total**.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/30ab69ea-6782-4128-8143-a15b1f52d787)
+
+171. Right-click on the newly created field and select **Rename for this visual**. Name the field **%GT Revenue**.
+
+172. Drill back up to **Category** level if you are not already there within the **Matrix** visual.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/f3bc3cfb-6678-42d8-84ac-e3edf75a1ca8)
+
+173. Then, select **Enable drill down mode** within the header of the **Matrix** visual
+174. Now, select **Urban** (the word, not the + sign)
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/3c1d0661-d593-4808-b1c5-a977ef579340)
+
+175. Ensure that the **Matrix** visual is still selected. Then, using the **Ctrl** key on your keyboard, multi-select the **2021** column within the **Sum of Revenue by Year** visual and the **Australia** column within the **Sum of Revenue by Country** visual.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/75a129a6-7920-4fe0-8280-a1d079df96f2)
+
+Now let’s look at the Extreme category for Australia over time.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/7a06bebc-7caa-4d15-870b-675d50b3b0b0)
+
+Notice that the **Extreme** segment has around **40%** of the grand total.
+
+Now let’s **drill down** into the Extreme Segment to determine if a Product stands out.
+
+176. Within the **Matrix** visual, select the **Extreme** row (the word, not the + sign) to **drill down** to the **Product** level.
+ 
+177. Resize the visual as needed.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/33d44a03-0bcd-43c1-a89a-63ebfeb11839)
+
+178. Select the **ellipses** (…) in the top right corner of the matrix visual header.
+
+179. Select **Sort By > %GT Revenue** and ensure that **Sort Descending** is also selected (this should be the default).
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/67d413f3-5337-49bf-a486-0e40993cd052)
+
+We can now see the top Products.
+
+180. Ensure **2021** is selected in the **Sum of Revenue by Year** visual, and **Australia** in the **Sum of Revenue by Country** visual. Notice that **Maximus UE-04** and **Maximus UE-21** are the top products. Also, notice that Product **Maximus UE-04** has nearly **7%** of the grand total.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/fa950f69-cf7c-4818-8de0-c51c410dea63)
+
+Earlier we created a calculated column named **ZipCountry** using DAX. Now let’s create a **Percent Growth** calculated measure so we can compare sales over time. We are going to do this in two steps.
+
+But first, what’s the difference between a measure and a calculated column?
+
+- A **Calculated column** is evaluated row by row. We extend a table by adding calculated columns.
+- A **Measure** is used when we want to aggregate values from many rows in a table.
+
+181. Within the **Data** pane, select the **Sales** table.
+
+182. From the ribbon at the top of the screen, select the **Table Tools** tab, then select **New Measure**. A formula bar will appear.
+
+183. Enter ```PY Sales = CALCULATE(SUM(Sales[Revenue]), SAMEPERIODLASTYEAR('Date'[Date]))```
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/e132da7d-53d1-49cd-b433-f398f668c39e)
+
+184. Select the **checkmark** to the left of the formula bar or hit **Enter** on your keyboard. You will see the **PY Sales** measure is created within the **Sales** table.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/81243c77-2701-46bb-837e-2f2e3567362c)
+
+Let’s create another measure using a different method.
+
+185. In the **Data** pane, hover over the **Sales** table.
+
+186. Select the **ellipses** (…) to the right of the table name.
+
+187. Select **New Measure** from the options menu. A formula bar opens.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/4100c5de-afde-478c-a728-4d03aea2a7b5)
+
+188. Within the formula bar, enter the following formula:
+
+```% Growth = DIVIDE(SUM(Sales[Revenue])-[PY Sales],[PY Sales])```
+
+189. Select the **checkmark** next to the formula bar or hit **Enter** on your keyboard. You will see the **% Growth** measure added to the **Sales** table.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/f9a5956b-0596-4446-864c-f55c4bb56892)
+
+190. Ensure that the **Matrix** visual is still selected. If not, select the **Matrix** visual and also ensure that you still have the **Australia** and **2021** columns selected in the other visuals.
+
+191. In the **Data** pane, select the **checkbox** next to the newly created **PY Sales** and **% Growth** measures within the Sales table. These measures should be added to the **Values** section of the **Matrix**.
+
+192. Resize the **Matrix** to see these newly added fields. (You may also have to adjust the size of the other visuals where needed)
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/df71d702-6499-48a2-82fa-e5319e81a7e7)
+
+Notice that the fields need to be formatted.
+
+193. From the **Data** pane, select the **% Growth** field (the name, not the checkbox) within the **Sales** table.
+
+194. From the ribbon at the top of the screen, select the **Measure Tools** tab, choose the **Format** drop-down, and then select **Percentage**.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/f85f764e-5740-401a-aaf3-70041d1af1ad)
+
+> Tip: If your % Growth calculated measures shows as 0.00% at any point, double check that you still have 2021 and Australia selected as filters from the other visuals.
+
+195. Similarly, from the **Data** pane, select the **PY Sales** field (the name, not the checkbox) within the **Sales** table.
+
+196. From the ribbon at the top of the screen, select the **Measure Tools** tab, choose the **Format** dropdown, and then select **Currency** (if it isn’t already formatted to **Currency**).
+
+197. Similarly, from the **Data** pane, select the **Revenue** field.
+
+198. From the ribbon at the top of the screen, select the **Column Tools** tab, choose the **Format** dropdown, and then select **Currency** (if it isn’t already formatted to **Currency**).
+
+199. Ensure that **Australia** is still selected within the **Sum of Revenue** by Country visual, and the **2021** column is still selected within the **Sum of Revenue by Year** visual. Notice that **Maximus UE-04** has nearly **158%** growth compared to last year.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/c17df975-9cd5-4e73-9401-6ac748cb4d5c)
+
+200. Select the white space within the canvas to **deselect** any of the possible selected visuals. Then, from the ribbon at the top of the screen, select **File** and choose **Save** from the menu to the left of the screen.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/ddf2ea4e-4fb4-4f3c-a2d5-c2bd042087b5)
+
+
+### Congratulations! You have now completed Lab 2!
+
+
+## References
+
+AI in Every City introduces you to some of the key functions available in Power BI. In the ribbon of the Power BI Desktop, the Help section has links to some great resources.
+
+![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/68654903/dcbb7d25-0895-447d-b487-3bf6af7f4c17)
+
+
+Here are a few more resources that will help you with your next steps with Power BI.
+
+- Getting started: <http://powerbi.com>
+- Power BI Desktop: <https://powerbi.microsoft.com/desktop>
+- Power BI Mobile: <https://powerbi.microsoft.com/mobile>
+- Community site <https://community.powerbi.com/>
+- Power BI Getting started support page: 
+<https://support.powerbi.com/knowledgebase/articles/430814-get-started-with-power-bi>
+- Supportsite <https://support.powerbi.com/>
+- Feature requests <https://ideas.powerbi.com/forums/265200-power-bi-ideas>
+- New ideas for using Power BI <https://aka.ms/PBI_Comm_Ideas>
+- Power BI Courses <http://aka.ms/pbi-create-reports>
+- Power Platform <https://powerplatform.microsoft.com/en-us/instructor-led-training/>
+- Power Apps: [Business Apps | Microsoft Power Apps](https://powerapps.microsoft.com/en-us/)
+- Power Automate: [Power Automate | Microsoft Power Platform](https://powerautomate.microsoft.com/en-us/)
+- Dataverse [What is Microsoft Dataverse? - Power Apps | Microsoft Docs
+](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro)
