@@ -1,12 +1,13 @@
 # Contents
-Introduction ................................................................................................................................. 3
+Introduction
 
-Power BI Desktop – Creating a mobile view .................................................................................................... 4
+Power BI Desktop – Creating a mobile view 
 
-    Power BI Service ......................................................................................................................... 9
-    Power BI Service – Publishing Report...................................................................................................... 9
+    Power BI Service 
     
-Power BI – Building a Dashboard ............................................................................................................. 16
+    Power BI Service – Publishing 
+    
+Power BI – Building a Dashboard 
 
 # Introduction
 This document is lab four out of five total labs.
