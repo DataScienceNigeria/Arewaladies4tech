@@ -1,5 +1,5 @@
 # Microsoft Excel Masterclass: Complete & Concise 
-## Week 1 - Formulas
+## Class 1 - Formulas
 1. Mathematical
 2. Textual
 3. Logical
@@ -8,7 +8,7 @@
 
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/59b61244-14fc-441e-859d-7124f4eaa9e8)
 
-## Week 2 - Lookup Formulas
+## Class 2 - Lookup Formulas
 1. VLookup
 2. HLookup
 3. Index
@@ -18,7 +18,7 @@
 
 
 
-## Week 3 - Data Tools
+## Class 3 - Data Tools
 1. Sorting
 2. Filtering
 3. Data Importing
@@ -26,14 +26,14 @@
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/b93ab9b5-c183-437e-b01f-cf6afb62a7ef)
 
 
-## Week 4 - Formatting
+## Class 4 - Formatting
 1. Data presentation
 2. Conditional
 3. Formatting 
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/9ea3d46a-40f3-485a-8bfe-f64bb4849644)
 
 
-## Week 5 - Pivot Tables
+## Class 5 - Pivot Tables
 1. Use Cases
 2. Filtering
 3. Slicing
@@ -42,7 +42,7 @@
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/c0da3fef-656c-42d6-b513-9e24272eda6d)
 
 
-## Week 6 - Charts
+## Class 6 - Charts
 1. Bar Charts
 2. Line Charts
 3. Waterfall Charts
@@ -50,12 +50,12 @@
 
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/4ed28346-4fa3-4d70-9db3-9f3d5890a93b)
 
-## Week 7 - Shortcuts 
+## Class 7 - Shortcuts 
 
 ![image](https://github.com/DataScienceNigeria/Arewaladies4tech/assets/28099926/d5f125f9-19ae-40aa-bb4d-61b3d937216b)
 
 
-## Week 8 - Advance Analytics
+## Class 8 - Advance Analytics
 1. Solver
 2. Regression
 3. Goal Seek
