@@ -63,7 +63,7 @@ Welcome to the Beginner-Friendly SQL Training Program in Kaduna, Nigeria! This c
 - [Protecting Your Database from Attacks](https://youtu.be/nTgFPcYRkys?si=Y24SYbedDHzkRfQE)
 
 ### Week 12: Final Projects and Review
-- [Applying SQL Skills to Real-World Projects](https://youtu.be/0rB_memC-dA?si=ttSdy9PCIpO0Zimc)
+- Applying SQL Skills to Real-World Projects
 - Reviewing Key Concepts
 - Graduation and Next Steps
 
