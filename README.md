@@ -120,7 +120,7 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 | 3 |	1 |	Time Intelligence |	Types of Time Intelligence functions |	Understand and apply time intelligence functions in DAX. |	Implement time intelligence functions |
 | |	2 |	Advanced DAX	| Combining patterns of DAX formula, Using quick measures |	Master advanced DAX functionalities for robust data analysis. |	Create complex DAX measures |
 | |	3 |	Building Dashboard Use Cases	| Dashboard use case 1: Sales Performance Dashboard |	Learn to build a comprehensive dashboard to analyze sales performance. |	Build a Sales Performance Dashboard |
-| |	4 |	Building Dashboard Use Cases	Dashboard use case 2: Inventory Management Dashboard |	Learn to build a dashboard for monitoring inventory levels and transactions.	| Build an Inventory Management Dashboard |
+| |	4 |	Building Dashboard Use Cases	| Dashboard use case 2: Inventory Management Dashboard |	Learn to build a dashboard for monitoring inventory levels and transactions.	| Build an Inventory Management Dashboard |
 
 ## Project Use Cases:								
 								
@@ -146,7 +146,7 @@ These projects are designed to challenge the participants, encouraging them to u
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
 | 1 |	1 |	Introduction to Data science |	Understand the fundamentals of data science. |	What is Data Science? Data Science vs. Traditional Analytics |	Explore different data science methodologies |
 | |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	Collect and clean a sample data set |
-| |	3 |	Exploratory Data Analysis (EDA)	Gain insights into exploratory data analysis. |	EDA, Data Visualization |	Perform EDA on a dataset |
+| |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	Perform EDA on a dataset |
 | |	4 |	Data Science Life Cycle | Comprehend the data science project lifecycle.  | Project Formulation, Data Collection and Cleaning |	Formulate a hypothetical DS project |
 | |	5 |	Data Exploration and Analysis |	Understand the importance of data exploration in DS. |	Data Exploration and Analysis	| Explore a dataset |
 | 2 |	6 |	Model Building	| Learn the basics of model building in DS. |	Model Building, Model Evaluation |	Build a simple model |
@@ -157,14 +157,14 @@ These projects are designed to challenge the participants, encouraging them to u
 |3 |	11 | Big Data and Distributed Computing |	Understand real-world data challenges and distributed computing. | Big Data and Distributed Computing, Handling Real-world Data	|Explore a big data technology |
 | |	12 |	Introduction to ML |	Learn the basics of machine learning.	| What is Machine Learning? Types of Machine Learning |	Implement a basic ML algorithm |
 | |	13 |	Supervised Learning |	Understand supervised learning in ML. |	Supervised Learning Algorithms	| Implement a supervised learning algorithm |
-| |	14 |	Regression Task	Learn to solve regression problems. |	Linear Regression, Polynomial Regression |	Solve a regression problem with a dataset |
+| |	14 |	Regression Task |	Learn to solve regression problems. |	Linear Regression, Polynomial Regression |	Solve a regression problem with a dataset |
 | 4 |	15 |	Classification Task |	Gain expertise in classification problems. |	Logistic Regression, Decision Trees |	Solve a classification problem with a dataset |
 | |	16 |	Web-App Model Deployment |	Learn to deploy ML models for web applications.	| Web Frameworks (e.g., Flask, Django), Model Deployment on Cloud | Deploy a simple ML model as a web app |
 | |	17 | 	Clustering |	Explore unsupervised learning through clustering. |	K-Means Clustering, Hierarchical Clustering |	Implement clustering on a dataset |
 | |	18 |	Reinforcement Learning | Understand reinforcement learning principles.	| Markov Decision Processes, Q-Learning | Implement a simple reinforcement learning algorithm |
 | 5 |	19 |	Time Series |	Learn to analyze and forecast time series data.	| Time Series Components, Time Series Forecasting Models | Analyze and forecast a time series dataset |
 | |	20 |	Introduction to AI/Symbolic |	Understand the fundamentals of AI, including symbolic AI. | What is Artificial Intelligence? Symbolic AI vs. Machine Learning |	Explore a symbolic AI concept
-| |	21 |	Neural Network	Dive into the world of neural networks. | Perceptrons, Feedforward Neural Networks (FNN), Backpropagation | Implement a simple neural network |
+| |	21 |	Neural Network	| Dive into the world of neural networks. | Perceptrons, Feedforward Neural Networks (FNN), Backpropagation | Implement a simple neural network |
 | |	22 |	Deep Learning |	Explore deeper layers of neural networks. |	Deep Learning, Convolutional Neural Networks (CNN) |	Implement a deep learning model |
 | 6 |	23 |	NLP |	Explore NLP techniques for processing and understanding human language. | Text Preprocessing, Text Classification, Named Entity Recognition (NER) | Implement text classification on a dataset |
 | | 	24 |	Advanced NLP |	Delve deeper into NLP techniques. |	Word Embeddings (e.g., Word2Vec, GloVe), Language Models (e.g., BERT)	| Explore advanced NLP techniques |
