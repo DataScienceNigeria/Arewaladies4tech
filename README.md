@@ -4,6 +4,7 @@ Arewa Ladies4Tech, an intervention of Data Science Nigeria/DSNai, also known as 
 
 Our program focuses on harnessing the potential of the evolving digital landscape, offering essential AI skills that unlock limitless opportunities in today’s fast-paced digital era.
 
+# Excel
 ## Curriculum
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Assignment	|  Tutor Name  | 	Category (Project Ass., Expert, Intern, Staff)  |
@@ -44,3 +45,38 @@ Key Features: Data cleaning using Power Query, Advanced formulas (e.g., INDEX-MA
 Expense Tracker and Budget Planner:							
 Description: Create a comprehensive tool to track daily expenses, categorize them, and compare against a predefined budget. The tool should provide a visual summary of income, expenses, and savings.							
 Key Features: Data Entry forms, Data Validation, Advanced Formulas for calculations, Conditional Formatting for visual cues, and Charts for budget analysis.							
+# Power App
+## Curriculum
+
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Assignment	|  Tutor Name  | 	Category (Project Ass., Expert, Intern, Staff)  |
+|--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
+|1 |	1	|Introduction to Course	| What is Power Apps? Power Apps Features |	Understand the importance and features of Power Apps.	| Explore Power Apps environment |
+| |	2 |	Environment Setup |	PowerApps Account, Connecting to OneDrive |	Set up the environment for Power Apps development. |	Connect Power Apps to OneDrive |
+| |	3 |	Environment Setup |	Connecting to Google Sheet |	Learn to connect Power Apps to different data sources.	| Connect Power Apps to Google Sheet |
+| |	4 |	Power Apps - Basic |	Development Environment	| Get acquainted with the Power Apps development environment. |	Create a simple app |
+| 2 |	1 |	Power Apps - Basic |	Running, Saving Your First Application	| Create, run and save a basic application in Power Apps. |	Modify and save an existing app |
+| |	2 |	Canvas Apps - Beginner	| Environment Layout, Introduction to Galleries | Understand the layout and basic elements like galleries in Canvas Apps. |	Create a gallery in Canvas App |
+| |	3 |	Canvas Apps - Beginner | Forms and Data Cards| Learn to work with forms and data cards in Canvas Apps.	| Create a form in Canvas App |
+| |	4 |	Canvas Apps - Beginner	| Property Assignment, Edit Forms, Triggers |	Understand property assignments, editing forms and triggers in Canvas Apps. |	Modify properties and triggers in an app |
+| 3 |	1 |	Canvas Apps - Intermediate	| Create a Canvas App From Scratch, Buttons	| Build a Canvas app from scratch, learn to add and customize buttons.	| Build a Canvas App with customized buttons 
+| | 	2 |	Canvas Apps - Intermediate |	Galleries, Customizing Galleries | Understand and customize galleries in a Canvas App. |	Customize galleries in a Canvas App |
+| |	3 |	Canvas Apps - Expert |	Documentation, User(), Today() and Now() |	Learn to document your app and use basic functions like User(), Today() and Now(). |	Document your app |
+| 4 |	Canvas Apps - Advanced |	Introduction, Input Elements 1, Input Elements 2	| Explore advanced input elements and how they can be utilized in Canvas Apps. |	Create an app using advanced input elements |
+
+## Project Use Cases:				
+				
+Project Management App:				
+				
+Description: Create a project management app that allows users to create projects, assign tasks, set deadlines, and monitor progress.				
+Key Features: Project creation, task assignment, deadline tracking, progress monitoring, and reporting.				
+				
+Expense Tracking App:				
+Description: Develop an expense tracking app that enables users to record, categorize, and track their expenses over time.				
+Key Features: Expense entry, category creation, expense tracking, reporting, and budget setting.				
+				
+Inventory Management App:				
+Description: Build an inventory management app that helps users to manage stock levels, orders, and suppliers.				
+Key Features: Stock entry, order processing, supplier management, stock level monitoring, and reporting.				
+
+
+
