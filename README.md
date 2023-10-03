@@ -87,8 +87,8 @@ Key Features: Stock entry, order processing, supplier management, stock level mo
 | |	2 |	Basic SQL Queries in MySQL |	SQL Statement and query	| Understand and write basic SQL queries. |	Write basic SELECT queries |
 | 2 | 1	| Joins in MySQL | INNER JOIN, LEFT JOIN, RIGHT JOIN, SELF JOIN | 	Understand and utilize different types of joins. |	Practice different joins with provided datasets |
 | |	2 |	Subqueries and Derived Tables in MySQL | Subqueries, Nested subquery, Derived tables	| Understand and use subqueries and derived tables. |	Write queries using subqueries and derived tables |
-| 3 | 1 | Aggregate Functions in MySQL	AVG, COUNT, SUM, MIN, MAX |	Learn and apply aggregate functions in SQL queries. |	Write queries using aggregate functions |
-| |	2 |	Getting Started with MS SQL Server  |  Install SQL Server, Install SSMS	Install MS SQL Server and familiarize with SSMS. |	Install MS SQL Server, Explore SSMS |
+| 3 | 1 | Aggregate Functions in MySQL	| AVG, COUNT, SUM, MIN, MAX |	Learn and apply aggregate functions in SQL queries. |	Write queries using aggregate functions |
+| |	2 |	Getting Started with MS SQL Server  |  Install SQL Server, Install SSMS	| Install MS SQL Server and familiarize with SSMS. |	Install MS SQL Server, Explore SSMS |
 
 **In-house tutor: Chimaoge Esotu**
 
@@ -115,7 +115,7 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 | |	4 |	DAX Calculations |	What is DAX, Creating and Organizing DAX Measures |	Learn the basics of DAX for data analysis. |	Create basic DAX measures |
 | 2 |	1 |	Understanding DAX |	Measures vs Calculated Columns, Simple aggregations |	Grasp the foundational concepts of DAX. | Create calculated columns |
 | |	2 |	Reviewing the Data Model |	How the data model and DAX work together |	Understand the interplay between data models and DAX. |	Review and modify a data model |
-| |	3 |	Understanding Context |	Evaluation Context, Filter context, Row context	Grasp the different contexts in DAX calculations. |	Practice different contexts in DAX |
+| |	3 |	Understanding Context |	Evaluation Context, Filter context, Row context | Grasp the different contexts in DAX calculations. |	Practice different contexts in DAX |
 | |	4 |  CALCULATE & Table Functions | 	CALCULATE, Simple filters, Table functions |	Delve into advanced DAX functions and their usage. |	Create advanced DAX formulas |
 | 3 |	1 |	Time Intelligence |	Types of Time Intelligence functions |	Understand and apply time intelligence functions in DAX. |	Implement time intelligence functions |
 | |	2 |	Advanced DAX	| Combining patterns of DAX formula, Using quick measures |	Master advanced DAX functionalities for robust data analysis. |	Create complex DAX measures |
