@@ -4,11 +4,24 @@ Arewa Ladies4Tech, an intervention of Data Science Nigeria/DSNai, also known as 
 
 Our program focuses on harnessing the potential of the evolving digital landscape, offering essential AI skills that unlock limitless opportunities in today’s fast-paced digital era.
 
+To start kindly join this group for real-time updates and engagements
+
+Link to Telegram group: https://t.me/+sWJ4FM-FeSw2MGFk
+Link to WhatsApp group: https://chat.whatsapp.com/CNfofF9CwonGKUPUP3QKos
+
+Introduction to Analytical Videos
+
+[Introduction to Analytical Concepts - One](https://youtu.be/ht8CgphGxME?feature=shared)
+
+[Introduction to Analytical Concepts - Two](https://youtu.be/RFYMtaHTY9c?feature=shared)
+
+[Introduction to Analytical Concepts - Three](https://youtu.be/cT8v0Paf9Cc?feature=shared)
+
 # Excel
 ## Curriculum
 
-|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 	
-|--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  |
+|--------|------|---------|-------------|----------------------|--------------|--------------|
 |1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface |  |
 |        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	|  |
 |        | 3	| Useful Features |	Useful Shortcuts, Important Functions	| Understand shortcuts and basic functions in Excel.	|  |
@@ -49,7 +62,7 @@ Key Features: Data Entry forms, Data Validation, Advanced Formulas for calculati
 ## Curriculum
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 	
-|--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
+|--------|------|---------|-------------|----------------------|--------------|--------------|
 |1 |	1	|Introduction to Course	| What is Power Apps? Power Apps Features |	Understand the importance and features of Power Apps.	|  |
 | |	2 |	Environment Setup |	PowerApps Account, Connecting to OneDrive |	Set up the environment for Power Apps development. |	 |
 | |	3 |	Environment Setup |	Connecting to Google Sheet |	Learn to connect Power Apps to different data sources.	| |
@@ -82,7 +95,7 @@ Key Features: Stock entry, order processing, supplier management, stock level mo
 ## Curriculum
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 
-|--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
+|--------|------|---------|-------------|----------------------|--------------|--------------|
 |1 |	1 |	Getting Started with MySQL |	MySQL Installation, MySQL Workbench	| Install MySQL and familiarize with MySQL Workbench. |	 |
 | |	2 |	Basic SQL Queries in MySQL |	SQL Statement and query	| Understand and write basic SQL queries. |	 |
 | 2 | 1	| Joins in MySQL | INNER JOIN, LEFT JOIN, RIGHT JOIN, SELF JOIN | 	Understand and utilize different types of joins. |	 |
@@ -108,7 +121,7 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 ## Curriculum
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 
-|--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
+|--------|------|---------|-------------|----------------------|--------------|--------------|
 | 1 |	1 |	Introduction to Power BI |	What is Power BI, Data Scenario Evaluation |	Understand the essence and application of Power BI. |	 |
 | |	2 |	Power Query	| Query Editor, Simple and Advanced Transformations |	Learn to manipulate data using the Query Editor. ||
 | |	3 |	Data Modeling |	Introduction to Data Modeling, Relationships between Tables |	Understand data modeling and relationships in Power BI. |	|
@@ -143,7 +156,7 @@ These projects are designed to challenge the participants, encouraging them to u
 ## Curriculum
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|   Assignment  | 
-|--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
+|--------|------|---------|-------------|----------------------|--------------|--------------|
 | 1 |	1 |	Introduction to Data science |	Understand the fundamentals of data science. |	What is Data Science? Data Science vs. Traditional Analytics |	 |
 | |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	 |
 | |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	|
