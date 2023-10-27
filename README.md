@@ -7,6 +7,7 @@ Our program focuses on harnessing the potential of the evolving digital landscap
 To start, kindly join this group for real-time updates and engagements
 
 Link to Telegram group: https://t.me/+sWJ4FM-FeSw2MGFk
+
 Link to WhatsApp group: https://chat.whatsapp.com/CNfofF9CwonGKUPUP3QKos
 
 ### Introduction to Analytical Videos
