@@ -4,12 +4,12 @@ Arewa Ladies4Tech, an intervention of Data Science Nigeria/DSNai, also known as 
 
 Our program focuses on harnessing the potential of the evolving digital landscape, offering essential AI skills that unlock limitless opportunities in today’s fast-paced digital era.
 
-To start kindly join this group for real-time updates and engagements
+To start, kindly join this group for real-time updates and engagements
 
 Link to Telegram group: https://t.me/+sWJ4FM-FeSw2MGFk
 Link to WhatsApp group: https://chat.whatsapp.com/CNfofF9CwonGKUPUP3QKos
 
-Introduction to Analytical Videos
+### Introduction to Analytical Videos
 
 [Introduction to Analytical Concepts - One](https://youtu.be/ht8CgphGxME?feature=shared)
 
