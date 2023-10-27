@@ -9,8 +9,8 @@ Our program focuses on harnessing the potential of the evolving digital landscap
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 	Category (Project Ass., Expert, Intern, Staff)  |
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
-|1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface | [Excel basics - Data entry, formatting data](https://www.youtube.com/watch?v=JfV_iKPb5I8) |
-|        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	| [Excel basics - Data entry, formatting data](https://www.youtube.com/watch?v=JfV_iKPb5I8) |
+|1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface |  |
+|        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	|  |
 |        | 3	| Useful Features |	Useful Shortcuts, Important Functions	| Understand shortcuts and basic functions in Excel.	|  |
 |        | 4	| Functions	| IF Function, VLookup	| Learn and apply conditional and lookup functions.	|  |
 |        | 5	| Functions and Features |	Text Functions, Flash Fill	| Understand text functions and useful features like Flash Fill.	| 	|
