@@ -7,7 +7,7 @@ Our program focuses on harnessing the potential of the evolving digital landscap
 # Excel
 ## Curriculum
 
-|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 	Category (Project Ass., Expert, Intern, Staff)  |
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 	
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
 |1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface |  |
 |        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	|  |
@@ -48,7 +48,7 @@ Key Features: Data Entry forms, Data Validation, Advanced Formulas for calculati
 # Power App
 ## Curriculum
 
-|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 	Category (Project Ass., Expert, Intern, Staff)  |
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 	
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
 |1 |	1	|Introduction to Course	| What is Power Apps? Power Apps Features |	Understand the importance and features of Power Apps.	|  |
 | |	2 |	Environment Setup |	PowerApps Account, Connecting to OneDrive |	Set up the environment for Power Apps development. |	 |
@@ -81,7 +81,7 @@ Key Features: Stock entry, order processing, supplier management, stock level mo
 # Analysis with SQL
 ## Curriculum
 
-|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 	Category (Project Ass., Expert, Intern, Staff)  |
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  | 
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
 |1 |	1 |	Getting Started with MySQL |	MySQL Installation, MySQL Workbench	| Install MySQL and familiarize with MySQL Workbench. |	 |
 | |	2 |	Basic SQL Queries in MySQL |	SQL Statement and query	| Understand and write basic SQL queries. |	 |
@@ -107,7 +107,7 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 # PowerBI
 ## Curriculum
 
-|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 	Category (Project Ass., Expert, Intern, Staff)  |
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
 | 1 |	1 |	Introduction to Power BI |	What is Power BI, Data Scenario Evaluation |	Understand the essence and application of Power BI. |	 |
 | |	2 |	Power Query	| Query Editor, Simple and Advanced Transformations |	Learn to manipulate data using the Query Editor. ||
@@ -142,7 +142,7 @@ These projects are designed to challenge the participants, encouraging them to u
 # Data Science with Python
 ## Curriculum
 
-|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|   Assignment  | 	Category (Project Ass., Expert, Intern, Staff)  |
+|  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|   Assignment  | 
 |--------|------|---------|-------------|----------------------|--------------|--------------|--------------------------------------------------|
 | 1 |	1 |	Introduction to Data science |	Understand the fundamentals of data science. |	What is Data Science? Data Science vs. Traditional Analytics |	 |
 | |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	 |
