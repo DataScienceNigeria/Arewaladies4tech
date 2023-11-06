@@ -23,9 +23,9 @@ Link to WhatsApp group: https://chat.whatsapp.com/CNfofF9CwonGKUPUP3QKos
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recording	|  Assignment  |
 |--------|------|---------|-------------|----------------------|--------------|--------------|
-|1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface |  |
-|        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	|  |
-|        | 3	| Useful Features |	Useful Shortcuts, Important Functions	| Understand shortcuts and basic functions in Excel.	|  |
+|1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface | [Introduction to Microsoft Excel](https://youtu.be/ZDRcPaNuilI) |  [Link](https://forms.gle/F1Heco6jhz9kcRqu8)|
+|        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	| [Excel Basics - Data Entry, Formatting Data](https://youtu.be/JfV_iKPb5I8) | [Link](https://forms.gle/jHfLVfUn9YcCJ6RUA)|
+|        | 3	| Useful Features |	Useful Shortcuts, Important Functions	| Understand shortcuts and basic functions in Excel.	|  [Useful Features, Shortcuts and Formats in Excel](https://youtu.be/OGfCKCGmxjk)|[Link](https://forms.gle/4NZUH1SsHfAs1CxbA)|
 |        | 4	| Functions	| IF Function, VLookup	| Learn and apply conditional and lookup functions.	|  |
 |        | 5	| Functions and Features |	Text Functions, Flash Fill	| Understand text functions and useful features like Flash Fill.	| 	|
 |2	     | 1	| Intermediate Excel	| Creating Tables in Excel, Pivot Tables	| Learn to create tables and pivot tables in Excel.	| | 
@@ -158,10 +158,10 @@ These projects are designed to challenge the participants, encouraging them to u
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|   Assignment  | 
 |--------|------|---------|-------------|----------------------|--------------|--------------|
-| 1 |	1 |	Introduction to Data science |	Understand the fundamentals of data science. |	What is Data Science? Data Science vs. Traditional Analytics |	 |
-| |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	 |
-| |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	|
-| |	4 |	Data Science Life Cycle | Comprehend the data science project lifecycle.  | Project Formulation, Data Collection and Cleaning |	 |
+| 1 |	1 |	Introduction to Data science |	Understand the fundamentals of data science. |	What is Data Science? Data Science vs. Traditional Analytics |	[Introduction to Data Science with Python - Python for Data](https://youtu.be/gWe1LpsIsy8) | [Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
+| |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	[Python - Working with Data](https://youtu.be/hLzUjxXIOys) |[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
+| |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	[Exploratory Data Analysis](https://youtu.be/dzdQTVXCHM0)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
+| |	4 |	Data Science Life Cycle | Comprehend the data science project lifecycle.  | Project Formulation, Data Collection and Cleaning |	 [Data Science Lifecycle](https://youtu.be/MFb7-OEVUPk)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
 | |	5 |	Data Exploration and Analysis |	Understand the importance of data exploration in DS. |	Data Exploration and Analysis	| |
 | 2 |	6 |	Model Building	| Learn the basics of model building in DS. |	Model Building, Model Evaluation |	 |
 | |	7 |	Model Deployment |	Understand the steps for model deployment. |	Model Deployment, Project Documentation	|  |
