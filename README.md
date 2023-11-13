@@ -26,9 +26,9 @@ Link to WhatsApp group: https://chat.whatsapp.com/CNfofF9CwonGKUPUP3QKos
 |1	     |1	    |Microsoft Excel for Beginners	| Course Introduction, Getting Started with Excel |	Introduce Excel and navigate through the basic interface | [Introduction to Microsoft Excel](https://youtu.be/ZDRcPaNuilI) |  [Link](https://forms.gle/F1Heco6jhz9kcRqu8)|
 |        | 2 |	Excel Basics	| Excel Objects, Data Entry, Formatting Data	| Learn basic data entry and formatting in Excel.	| [Excel Basics - Data Entry, Formatting Data](https://youtu.be/JfV_iKPb5I8) | [Link](https://forms.gle/jHfLVfUn9YcCJ6RUA)|
 |        | 3	| Useful Features |	Useful Shortcuts, Important Functions	| Understand shortcuts and basic functions in Excel.	|  [Useful Features, Shortcuts and Formats in Excel](https://youtu.be/OGfCKCGmxjk)|[Link](https://forms.gle/4NZUH1SsHfAs1CxbA)|
-|        | 4	| Functions	| IF Function, VLookup	| Learn and apply conditional and lookup functions.	|  |
-|        | 5	| Functions and Features |	Text Functions, Flash Fill	| Understand text functions and useful features like Flash Fill.	| 	|
-|2	     | 1	| Intermediate Excel	| Creating Tables in Excel, Pivot Tables	| Learn to create tables and pivot tables in Excel.	| | 
+|        | 4	| Functions	| IF Function, VLookup	| Learn and apply conditional and lookup functions.	| [Vlookup](https://youtu.be/ge2cCCnQZp4) |[Link](https://forms.gle/sAtebZK1pEYhgKu56)|
+|        | 5	| Functions and Features |	Text Functions, Flash Fill	| Understand text functions and useful features like Flash Fill.	| [Using UNIQUE to check data quality](https://youtu.be/l_g3B11oZRo)	|[Link](https://forms.gle/mxnUUyFdUjxUCFwr8)|
+|2	     | 1	| Intermediate Excel	| Creating Tables in Excel, Pivot Tables	| Learn to create tables and pivot tables in Excel.	| [Pivot Table](https://youtu.be/flvRJIWYqBc)| [Link](https://forms.gle/GZQYREBP9y8Jb2LBA)|
 |        | 2	| Power Query and Power Pivot |	Getting Started with Power Query	| Introduction to Power Query and Power Pivot. |	|
 |        | 3	| Advanced Features	| Measures and Calculated Columns	| Understand measures and calculated columns in Power Pivot.	| 	|
 |        | 4	| Advanced Excel	| Create Interactive Dashboards, Sales Dashboard	| Learn to create interactive dashboards in Excel.	|  |
@@ -123,10 +123,10 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 
 |--------|------|---------|-------------|----------------------|--------------|--------------|
-| 1 |	1 |	Introduction to Power BI |	What is Power BI, Data Scenario Evaluation |	Understand the essence and application of Power BI. |	 |
-| |	2 |	Power Query	| Query Editor, Simple and Advanced Transformations |	Learn to manipulate data using the Query Editor. ||
-| |	3 |	Data Modeling |	Introduction to Data Modeling, Relationships between Tables |	Understand data modeling and relationships in Power BI. |	|
-| |	4 |	DAX Calculations |	What is DAX, Creating and Organizing DAX Measures |	Learn the basics of DAX for data analysis. |	|
+| 1 |	1 |	Introduction to Power BI |	What is Power BI, Data Scenario Evaluation |	Understand the essence and application of Power BI. |	[Introduction to Power BI](https://www.youtube.com/watch?v=egg1eiMru1w) |[Link](https://forms.gle/UG6LnKxkNYmfq4CF9)|
+| |	2 |	Power Query	| Query Editor, Simple and Advanced Transformations |	Learn to manipulate data using the Query Editor. |[Power Query](https://youtu.be/fPlbVY8WrS4)|[Link](https://forms.gle/kJnasNq6L99m6tKX7)|
+| |	3 |	Data Modeling |	Introduction to Data Modeling, Relationships between Tables |	Understand data modeling and relationships in Power BI. |[Data Modelling](https://youtu.be/OEcEWcTF134)	|[Link](https://forms.gle/HNC5nsE8dHn4xJ8h9)|
+| |	4 |	DAX Calculations |	What is DAX, Creating and Organizing DAX Measures |	Learn the basics of DAX for data analysis. |	[DAX Calculations](https://youtu.be/EZbkU3d8mrA)|[Link](https://forms.gle/FRKPDUaFrntWuqgQ6)|
 | 2 |	1 |	Understanding DAX |	Measures vs Calculated Columns, Simple aggregations |	Grasp the foundational concepts of DAX. |  |
 | |	2 |	Reviewing the Data Model |	How the data model and DAX work together |	Understand the interplay between data models and DAX. |	 |
 | |	3 |	Understanding Context |	Evaluation Context, Filter context, Row context | Grasp the different contexts in DAX calculations. |	 |
@@ -160,12 +160,12 @@ These projects are designed to challenge the participants, encouraging them to u
 |--------|------|---------|-------------|----------------------|--------------|--------------|
 | 1 |	1 |	Introduction to Data science |	Understand the fundamentals of data science. |	What is Data Science? Data Science vs. Traditional Analytics |	[Introduction to Data Science with Python - Python for Data](https://youtu.be/gWe1LpsIsy8) | [Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
 | |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	[Python - Working with Data](https://youtu.be/hLzUjxXIOys) |[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
-| |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	[Exploratory Data Analysis](https://youtu.be/dzdQTVXCHM0)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
-| |	4 |	Data Science Life Cycle | Comprehend the data science project lifecycle.  | Project Formulation, Data Collection and Cleaning |	 [Data Science Lifecycle](https://youtu.be/MFb7-OEVUPk)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
-| |	5 |	Data Exploration and Analysis |	Understand the importance of data exploration in DS. |	Data Exploration and Analysis	| |
-| 2 |	6 |	Model Building	| Learn the basics of model building in DS. |	Model Building, Model Evaluation |	 |
-| |	7 |	Model Deployment |	Understand the steps for model deployment. |	Model Deployment, Project Documentation	|  |
-| |	8 |	Data Visualization |	Explore the significance of data visualization.	| Importance of Data Visualization, Types of Visualizations |	|
+| |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	[Exploratory Data Analysis](https://youtu.be/dzdQTVXCHM0)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)| [Data Science Lifecycle](https://youtu.be/MFb7-OEVUPk)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
+| |	4 |	Data Science Life Cycle | Comprehend the data science project lifecycle.  | Project Formulation, Data Collection and Cleaning |	[Data Science Lifecycle](https://youtu.be/MFb7-OEVUPk)|
+| |	5 |	Data Exploration and Analysis |	Understand the importance of data exploration in DS. |	Data Exploration and Analysis	| [Data Exploration and Analysis](https://youtu.be/mJCVFZ8QgwE)|[Data Exploration and Analysis](https://forms.gle/zS8Mvwt1BthEGGTj7)|
+| 2 |	6 |	Model Building	| Learn the basics of model building in DS. |	Model Building, Model Evaluation |	[Model Building](https://youtu.be/wd6yBe9uuPQ) |[Model Building](https://forms.gle/6HKCye8sABhJRHHv5)|
+| |	7 |	Model Deployment |	Understand the steps for model deployment. |	Model Deployment, Project Documentation	| [Model Deployment and Project Documentation](https://youtu.be/r-gNUTSoYCE) |
+| |	8 |	Data Visualization |	Explore the significance of data visualization.	| Importance of Data Visualization, Types of Visualizations |[Data Visualization](https://youtu.be/klorhMk5fZc)	|
 | |	9 | Visualization Tools	| Learn how to create effective data visualizations. |	Visualization Tools (e.g., Matplotlib, Seaborn)	| |
 | |	10 |	Data Science in Cloud and Wild	| Explore cloud-based data science platforms. |  Cloud-Based Data Science Services (e.g., AWS, Azure, Google Cloud) |	 |
 |3 |	11 | Big Data and Distributed Computing |	Understand real-world data challenges and distributed computing. | Big Data and Distributed Computing, Handling Real-world Data	||
