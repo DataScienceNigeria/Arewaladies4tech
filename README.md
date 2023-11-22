@@ -127,10 +127,10 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 | |	2 |	Power Query	| Query Editor, Simple and Advanced Transformations |	Learn to manipulate data using the Query Editor. |[Power Query](https://youtu.be/fPlbVY8WrS4)|[Link](https://forms.gle/kJnasNq6L99m6tKX7)|
 | |	3 |	Data Modeling |	Introduction to Data Modeling, Relationships between Tables |	Understand data modeling and relationships in Power BI. |[Data Modelling](https://youtu.be/OEcEWcTF134)	|[Link](https://forms.gle/HNC5nsE8dHn4xJ8h9)|
 | |	4 |	DAX Calculations |	What is DAX, Creating and Organizing DAX Measures |	Learn the basics of DAX for data analysis. |	[DAX Calculations](https://youtu.be/EZbkU3d8mrA)|[Link](https://forms.gle/FRKPDUaFrntWuqgQ6)|
-| 2 |	1 |	Understanding DAX |	Measures vs Calculated Columns, Simple aggregations |	Grasp the foundational concepts of DAX. |  |
-| |	2 |	Reviewing the Data Model |	How the data model and DAX work together |	Understand the interplay between data models and DAX. |	 |
-| |	3 |	Understanding Context |	Evaluation Context, Filter context, Row context | Grasp the different contexts in DAX calculations. |	 |
-| |	4 |  CALCULATE & Table Functions | 	CALCULATE, Simple filters, Table functions |	Delve into advanced DAX functions and their usage. |	 |
+| 2 |	1 |	Understanding DAX |	Measures vs Calculated Columns, Simple aggregations |	Grasp the foundational concepts of DAX. | [UNDERSTANDING DAX](https://youtu.be/5rkNPjuJ6Vc) |[Link](https://forms.gle/yGL7JGX3ksAHAbvZ7)|
+| |	2 |	Reviewing the Data Model |	How the data model and DAX work together |	Understand the interplay between data models and DAX. |	[Reviewing Data Modelling](https://www.youtube.com/watch?v=Kawjw_fZoi4) |[Link](https://forms.gle/aMbCeQ7UNLuV3gvx6)|
+| |	3 |	Understanding Context |	Evaluation Context, Filter context, Row context | Grasp the different contexts in DAX calculations. |	[Understanding Context](https://youtu.be/T8ktCj2-Qy8) |[Link](https://forms.gle/zbfPkPNNi8mkkTX48)|
+| |	4 |  CALCULATE & Table Functions | 	CALCULATE, Simple filters, Table functions |	Delve into advanced DAX functions and their usage. |	[Table and Calculate Function](https://youtu.be/an7KrtMCK-s) |[Link](https://forms.gle/hAUpHwggqs6rr38k7)|
 | 3 |	1 |	Time Intelligence |	Types of Time Intelligence functions |	Understand and apply time intelligence functions in DAX. |	 |
 | |	2 |	Advanced DAX	| Combining patterns of DAX formula, Using quick measures |	Master advanced DAX functionalities for robust data analysis. |	 |
 | |	3 |	Building Dashboard Use Cases	| Dashboard use case 1: Sales Performance Dashboard |	Learn to build a comprehensive dashboard to analyze sales performance. |	 |
@@ -162,16 +162,16 @@ These projects are designed to challenge the participants, encouraging them to u
 | |	2 |	Working with Data |	Learn how to collect, clean, and manipulate data. |	Data Collection and Sources, Data Cleaning |	[Python - Working with Data](https://youtu.be/hLzUjxXIOys) |[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
 | |	3 |	Exploratory Data Analysis (EDA) | Gain insights into exploratory data analysis. |	EDA, Data Visualization |	[Exploratory Data Analysis](https://youtu.be/dzdQTVXCHM0)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)| [Data Science Lifecycle](https://youtu.be/MFb7-OEVUPk)|[Link](https://forms.gle/RrNQyXxGzuhsBHrcA)|
 | |	4 |	Data Science Life Cycle | Comprehend the data science project lifecycle.  | Project Formulation, Data Collection and Cleaning |	[Data Science Lifecycle](https://youtu.be/MFb7-OEVUPk)|
-| |	5 |	Data Exploration and Analysis |	Understand the importance of data exploration in DS. |	Data Exploration and Analysis	| [Data Exploration and Analysis](https://youtu.be/mJCVFZ8QgwE)|[Data Exploration and Analysis](https://forms.gle/zS8Mvwt1BthEGGTj7)|
-| 2 |	6 |	Model Building	| Learn the basics of model building in DS. |	Model Building, Model Evaluation |	[Model Building](https://youtu.be/wd6yBe9uuPQ) |[Model Building](https://forms.gle/6HKCye8sABhJRHHv5)|
+| |	5 |	Data Exploration and Analysis |	Understand the importance of data exploration in DS. |	Data Exploration and Analysis	| [Data Exploration and Analysis](https://youtu.be/mJCVFZ8QgwE)|[Link](https://forms.gle/zS8Mvwt1BthEGGTj7)|
+| 2 |	6 |	Model Building	| Learn the basics of model building in DS. |	Model Building, Model Evaluation |	[Model Building](https://youtu.be/wd6yBe9uuPQ) |[Link](https://forms.gle/6HKCye8sABhJRHHv5)|
 | |	7 |	Model Deployment |	Understand the steps for model deployment. |	Model Deployment, Project Documentation	| [Model Deployment and Project Documentation](https://youtu.be/r-gNUTSoYCE) |
 | |	8 |	Data Visualization |	Explore the significance of data visualization.	| Importance of Data Visualization, Types of Visualizations |[Data Visualization](https://youtu.be/klorhMk5fZc)	|
 | |	9 | Visualization Tools	| Learn how to create effective data visualizations. |	Visualization Tools (e.g., Matplotlib, Seaborn)	| |
 | |	10 |	Data Science in Cloud and Wild	| Explore cloud-based data science platforms. |  Cloud-Based Data Science Services (e.g., AWS, Azure, Google Cloud) |	 |
 |3 |	11 | Big Data and Distributed Computing |	Understand real-world data challenges and distributed computing. | Big Data and Distributed Computing, Handling Real-world Data	||
-| |	12 |	Introduction to ML |	Learn the basics of machine learning.	| What is Machine Learning? Types of Machine Learning |	 |
-| |	13 |	Supervised Learning |	Understand supervised learning in ML. |	Supervised Learning Algorithms	|  |
-| |	14 |	Regression Task |	Learn to solve regression problems. |	Linear Regression, Polynomial Regression |	 |
+| |	12 |	Introduction to ML |	Learn the basics of machine learning.	| What is Machine Learning? Types of Machine Learning |	 [Introduction to Machine Learning](https://youtu.be/uJJl83HP5Vk)|[Link](https://forms.gle/cKQNCE3W3pdQMBPH8)|
+| |	13 |	Supervised Learning |	Understand supervised learning in ML. |	Supervised Learning Algorithms	|[Supervised Learning](https://youtu.be/cLvmHd1Ka5Y)  |[Link](https://forms.gle/cKQNCE3W3pdQMBPH8)|
+| |	14 |	Regression Task |	Learn to solve regression problems. |	Linear Regression, Polynomial Regression |[Regression Task](https://youtu.be/ZlMYHGgAW3s)|[Link](https://forms.gle/NVTFqR1ZjZ5QQnxm9)|
 | 4 |	15 |	Classification Task |	Gain expertise in classification problems. |	Logistic Regression, Decision Trees |	 |
 | |	16 |	Web-App Model Deployment |	Learn to deploy ML models for web applications.	| Web Frameworks (e.g., Flask, Django), Model Deployment on Cloud |  |
 | |	17 | 	Clustering |	Explore unsupervised learning through clustering. |	K-Means Clustering, Hierarchical Clustering |	|
