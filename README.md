@@ -64,10 +64,10 @@ Key Features: Data Entry forms, Data Validation, Advanced Formulas for calculati
 
 |  Week  |  Day |  Topic  |  Subtopics	|  Learning Objective  |	Class Recordings	|  Assignment | 	
 |--------|------|---------|-------------|----------------------|--------------|--------------|
-|1 |	1	|Introduction to Course	| What is Power Apps? Power Apps Features |	Understand the importance and features of Power Apps.	|  |
-| |	2 |	Environment Setup |	PowerApps Account, Connecting to OneDrive |	Set up the environment for Power Apps development. |	 |
-| |	3 |	Environment Setup |	Connecting to Google Sheet |	Learn to connect Power Apps to different data sources.	| |
-| |	4 |	Power Apps - Basic |	Development Environment	| Get acquainted with the Power Apps development environment. |	 |
+|1 |	1	|Introduction to Course	| What is Power Apps? Power Apps Features |	Understand the importance and features of Power Apps.	|  [Introduction to Course](https://youtu.be/pmU4oBMflqw)|[Link](https://forms.gle/upjdaMUUnamUHqCZ6)|
+| |	2 |	Environment Setup |	PowerApps Account, Connecting to OneDrive |	Set up the environment for Power Apps development. |	[Environment Setup](https://youtu.be/lNLhPii-leo) |[Link](https://forms.gle/GkAuViJZfrTqFHhs8)|
+| |	3 |	Environment Setup |	Connecting to Google Sheet |	Learn to connect Power Apps to different data sources.	|[Environment Setup](https://www.youtube.com/watch?v=I16sAX-fEO8) |[Link](https://forms.gle/8FSr4u5S4c3ZpMF5A)|
+| |	4 |	Power Apps - Basic |	Development Environment	| Get acquainted with the Power Apps development environment. |	[Power Apps (Basic)](https://youtu.be/Wft6TFYBxlQ) |[Link](https://forms.gle/eXCQvkEZHWb9NX1b7)|
 | 2 |	1 |	Power Apps - Basic |	Running, Saving Your First Application	|  |
 | |	2 |	Canvas Apps - Beginner	| Environment Layout, Introduction to Galleries | Understand the layout and basic elements like galleries in Canvas Apps. |	 |
 | |	3 |	Canvas Apps - Beginner | Forms and Data Cards| Learn to work with forms and data cards in Canvas Apps.	| |
@@ -131,10 +131,10 @@ Key Features: Data Modeling, Transaction Management, Database Triggers, and Proc
 | |	2 |	Reviewing the Data Model |	How the data model and DAX work together |	Understand the interplay between data models and DAX. |	[Reviewing Data Modelling](https://www.youtube.com/watch?v=Kawjw_fZoi4) |[Link](https://forms.gle/aMbCeQ7UNLuV3gvx6)|
 | |	3 |	Understanding Context |	Evaluation Context, Filter context, Row context | Grasp the different contexts in DAX calculations. |	[Understanding Context](https://youtu.be/T8ktCj2-Qy8) |[Link](https://forms.gle/zbfPkPNNi8mkkTX48)|
 | |	4 |  CALCULATE & Table Functions | 	CALCULATE, Simple filters, Table functions |	Delve into advanced DAX functions and their usage. |	[Table and Calculate Function](https://youtu.be/an7KrtMCK-s) |[Link](https://forms.gle/hAUpHwggqs6rr38k7)|
-| 3 |	1 |	Time Intelligence |	Types of Time Intelligence functions |	Understand and apply time intelligence functions in DAX. |	 |
-| |	2 |	Advanced DAX	| Combining patterns of DAX formula, Using quick measures |	Master advanced DAX functionalities for robust data analysis. |	 |
-| |	3 |	Building Dashboard Use Cases	| Dashboard use case 1: Sales Performance Dashboard |	Learn to build a comprehensive dashboard to analyze sales performance. |	 |
-| |	4 |	Building Dashboard Use Cases	| Dashboard use case 2: Inventory Management Dashboard |	Learn to build a dashboard for monitoring inventory levels and transactions.	|  |
+| 3 |	1 |	Time Intelligence |	Types of Time Intelligence functions |	Understand and apply time intelligence functions in DAX. |	[Time Intelligence ](https://youtu.be/yZwokAkaAVo) |[Link](https://forms.gle/TPMUZfE3TSt326vMA)|
+| |	2 |	Advanced DAX	| Combining patterns of DAX formula, Using quick measures |	Master advanced DAX functionalities for robust data analysis. |	 [Advanced DAX](https://youtu.be/pq81HXEtOc4)|[Link](https://forms.gle/tYjnbX5bUg3H4RgA8)|
+| |	3 |	Building Dashboard Use Cases	| Dashboard use case 1: Sales Performance Dashboard |	Learn to build a comprehensive dashboard to analyze sales performance. |[Building Dashboard Use Cases 1](https://youtu.be/96m9mYvrQwo)	 |[Link](https://forms.gle/cZvduee9BkBvz5GX7)|
+| |	4 |	Building Dashboard Use Cases	| Dashboard use case 2: Inventory Management Dashboard |	Learn to build a dashboard for monitoring inventory levels and transactions.	| [Building Dashboard Use Cases 2](https://youtu.be/_dB2UoWk9AI) |[Link](https://forms.gle/3wPxqVdQL6vyA2PY9)|
 
 ## Project Use Cases:								
 								
@@ -172,20 +172,20 @@ These projects are designed to challenge the participants, encouraging them to u
 | |	12 |	Introduction to ML |	Learn the basics of machine learning.	| What is Machine Learning? Types of Machine Learning |	 [Introduction to Machine Learning](https://youtu.be/uJJl83HP5Vk)|[Link](https://forms.gle/cKQNCE3W3pdQMBPH8)|
 | |	13 |	Supervised Learning |	Understand supervised learning in ML. |	Supervised Learning Algorithms	|[Supervised Learning](https://youtu.be/cLvmHd1Ka5Y)  |[Link](https://forms.gle/cKQNCE3W3pdQMBPH8)|
 | |	14 |	Regression Task |	Learn to solve regression problems. |	Linear Regression, Polynomial Regression |[Regression Task](https://youtu.be/ZlMYHGgAW3s)|[Link](https://forms.gle/NVTFqR1ZjZ5QQnxm9)|
-| 4 |	15 |	Classification Task |	Gain expertise in classification problems. |	Logistic Regression, Decision Trees |	 |
-| |	16 |	Web-App Model Deployment |	Learn to deploy ML models for web applications.	| Web Frameworks (e.g., Flask, Django), Model Deployment on Cloud |  |
-| |	17 | 	Clustering |	Explore unsupervised learning through clustering. |	K-Means Clustering, Hierarchical Clustering |	|
-| |	18 |	Reinforcement Learning | Understand reinforcement learning principles.	| Markov Decision Processes, Q-Learning |  |
-| 5 |	19 |	Time Series |	Learn to analyze and forecast time series data.	| Time Series Components, Time Series Forecasting Models |  |
-| |	20 |	Introduction to AI/Symbolic |	Understand the fundamentals of AI, including symbolic AI. | What is Artificial Intelligence? Symbolic AI vs. Machine Learning |	
-| |	21 |	Neural Network	| Dive into the world of neural networks. | Perceptrons, Feedforward Neural Networks (FNN), Backpropagation |  |
-| |	22 |	Deep Learning |	Explore deeper layers of neural networks. |	Deep Learning, Convolutional Neural Networks (CNN) |	|
-| 6 |	23 |	NLP |	Explore NLP techniques for processing and understanding human language. | Text Preprocessing, Text Classification, Named Entity Recognition (NER) |  |
-| | 	24 |	Advanced NLP |	Delve deeper into NLP techniques. |	Word Embeddings (e.g., Word2Vec, GloVe), Language Models (e.g., BERT)	|  |
-| 7 |	25 |	Computer Vision	| Study computer vision for image and video analysis. |	Image Preprocessing, Object Detection |	 |
-| |	26 |	Advanced Computer Vision | Delve deeper into computer vision techniques. | Convolutional Neural Networks (CNN), Image Segmentation |  |
-| 8 |	27 |	AI Ethics |	Explore ethical considerations in AI.	| Bias and Fairness, Privacy Concerns |	 |
-| |	28 |	**Responsible AI**	|		
+| 4 |	15 |	Classification Task |	Gain expertise in classification problems. |	Logistic Regression, Decision Trees |	[Classification Task](https://youtu.be/kdUei2iD-l4) |[Link](https://forms.gle/kJ2WxCxixoKWijua9)|
+| |	16 |	Web-App Model Deployment |	Learn to deploy ML models for web applications.	| Web Frameworks (e.g., Flask, Django), Model Deployment on Cloud | [Web App Model Deployment](https://youtu.be/tlB6GAWX-34) |[Link](https://forms.gle/dkQNBwoVRzDKRRz27)|
+| |	17 | 	Clustering |	Explore unsupervised learning through clustering. |	K-Means Clustering, Hierarchical Clustering |[Clustering](https://youtu.be/j5odLrMfEV4)	|[Link](https://forms.gle/byTiperWiS8NWHpu7)|
+| |	18 |	Reinforcement Learning | Understand reinforcement learning principles.	| Markov Decision Processes, Q-Learning | [Reinforcement Learning](https://youtu.be/tj2VQrmO58I) |[Link](https://forms.gle/6Qs5QjqWd9ZChXfB7)|
+| 5 |	19 |	Time Series |	Learn to analyze and forecast time series data.	| Time Series Components, Time Series Forecasting Models | [Time Series](https://youtu.be/WXhYJaRZAnI) |[Link](https://forms.gle/LvL6uHWrt3TQuGDE6)|
+| |	20 |	Introduction to AI/Symbolic |	Understand the fundamentals of AI, including symbolic AI. | What is Artificial Intelligence? Symbolic AI vs. Machine Learning |	[Introduction to AI/Symbolic](https://youtu.be/M6oWfbA85Yg)|[Link](https://forms.gle/vP8D5qLa9bKYX4cQA)|
+| |	21 |	Neural Network	| Dive into the world of neural networks. | Perceptrons, Feedforward Neural Networks (FNN), Backpropagation | [Neural Network](https://youtu.be/bLA3bKumKFk) |[Link](https://forms.gle/6d9EeVcXS4FVYLfP9)|
+| |	22 |	Deep Learning |	Explore deeper layers of neural networks. |	Deep Learning, Convolutional Neural Networks (CNN) |[Deep Learning](https://youtu.be/nPhBWSaHXPo)	|[Link](https://forms.gle/weAKP1mNb8bzMvrw6)|
+| 6 |	23 |	NLP |	Explore NLP techniques for processing and understanding human language. | Text Preprocessing, Text Classification, Named Entity Recognition (NER) | [NLP] (https://youtu.be/DnoiWuShWeM)| [Link](https://forms.gle/Gma4MzWLFKPqt2Fw9)|
+| | 	24 |	Advanced NLP |	Delve deeper into NLP techniques. |	Word Embeddings (e.g., Word2Vec, GloVe), Language Models (e.g., BERT)	| [Advanced NLP](https://youtu.be/_D1UkFkXy_Y) |
+| 7 |	25 |	Computer Vision	| Study computer vision for image and video analysis. |	Image Preprocessing, Object Detection |	[Computer Vision](https://youtu.be/KqmXlXvHlOk) |
+| |	26 |	Advanced Computer Vision | Delve deeper into computer vision techniques. | Convolutional Neural Networks (CNN), Image Segmentation | [Advanced Computer Vision](https://youtu.be/A2qys9MAU8o) |
+| 8 |	27 |	AI Ethics |	Explore ethical considerations in AI.	| Bias and Fairness, Privacy Concerns |	[AI Ethics](https://youtu.be/M6oWfbA85Yg) |
+| |	28 |	**Responsible AI**	|	-----|-----|[Responsive AI](https://youtu.be/Khorx9ia8jA)|	
 
 
 ## Project Use Cases:			
